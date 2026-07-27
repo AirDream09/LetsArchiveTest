@@ -1,0 +1,4057 @@
+{
+  "serie1": {
+    "name": "Hidden Side",
+    "staffeln": {
+      "1": [
+        {
+          "title": "Folge 1 - 9",
+          "id": "1RlnkPFXO_Ln7v4uR5QUb0Wy3FyQAtIOM"
+        },
+        {
+          "title": "Folge 10 - 20",
+          "id": "11cwu8AqOlgnnjAL7uZ0UKcQNvu4xTvy9"
+        },
+        {
+          "title": "Face the Fear",
+          "id": "1imw8nGMKsj0WpphpmOmjGCfWUov-42eB"
+        },
+        {
+          "title": "Night of the Habringer",
+          "id": "1X9eTHaUbuFQJmOziLB6lKKI40IK4GyxT"
+        }
+      ]
+    }
+  },
+  "serie2": {
+    "name": "Ninjago",
+    "staffeln": {
+      "1": [
+        {
+          "title": "Pilot",
+          "id": "1t7C34GGPcP65P3ThGmXj4pklUc_5ondX"
+        },
+        {
+          "title": "Mini Movies (Englisch)",
+          "id": "1_TitdrKAAkQgnzNuS2-cOFYJQ2WOg5aq"
+        },
+        {
+          "title": "Folge 01 - Der Aufstieg der Schlangen",
+          "id": "1e2nN0EbtrTsIBlzP7vygK30tZ6e3WpXX"
+        },
+        {
+          "title": "Folge 02 - Der Pfad des Falken",
+          "id": "1wP05cdfBQ41uQ6IcOjv0Us_RfININ7gZ"
+        },
+        {
+          "title": "Folge 03 - Familienbande",
+          "id": "17il6fjhQokb0Uog9FMM5H9knNnv7uCZ3"
+        },
+        {
+          "title": "Folge 04 - Traue niemals einer Schlange",
+          "id": "10XLoLRBQEOrin1xBii3ijYt9TMD2BwNo"
+        },
+        {
+          "title": "Folge 05 - Die Vereinigung der Schlangen",
+          "id": "1btuDiUNcpb173vY4ibqknmHnEH6Tfm1I"
+        },
+        {
+          "title": "Folge 06 - Die verlorene Stadt",
+          "id": "1zTp67sOdVMc6m-EGChbxEqNmVWFWyTgz"
+        },
+        {
+          "title": "Folge 07 - Der Nindroid",
+          "id": "1dztrrjyVewOe0A1NTUDWsn74xutgkHCG"
+        },
+        {
+          "title": "Folge 08 - Die erste Reißzahnklinge",
+          "id": "1r6gPDSlf_puT3U29n2szD6EqeYb-d6nL"
+        },
+        {
+          "title": "Folge 09 - Der Talentwettbewerb",
+          "id": "1gWIaiLETNJnB5PgnGmbeALw-nO7mwqyl"
+        },
+        {
+          "title": "Folge 10 - Der grüne Ninja",
+          "id": "1Yw-66yhj3NaZChNmsEYqmeYiR53ZvotF"
+        },
+        {
+          "title": "Folge 11 - Die vierte Reißzahnklinge",
+          "id": "1WbWnIcxNnHM-Jlm59eb_13EjYUDM2iUD"
+        },
+        {
+          "title": "Folge 12 - Das böse Erwachen",
+          "id": "1UDnAEw84bl6_OtkB2zKz6fWShPXSFSXK"
+        },
+        {
+          "title": "Folge 13 - Rettung in letzter Sekunde",
+          "id": "1sICwlW9_0Qkx7LRXBSOeOVeAhX_f4lIH"
+        }
+      ],
+      "2": [
+        {
+          "title": "Folge 01 - Finsternis zieht herauf",
+          "id": "1ZdxxYAiBy5HoJe93l5vjZMMrFUdGagbn"
+        },
+        {
+          "title": "Folge 02 - Piraten gegen Ninja",
+          "id": "1_yz41pRQ2ZmkAtQ5PMXhrDuqwLF7sGV6"
+        },
+        {
+          "title": "Folge 03 - Die falschen Ninja",
+          "id": "1KO4FMNjCjlXtVOzA7poEUGr4ZQbJnsov"
+        },
+        {
+          "title": "Folge 04 - Das Ninjaball-Rennen",
+          "id": "1jFwNNwFalph9Qmj4qpokLkPmemN3xySa"
+        },
+        {
+          "title": "Folge 05 - Wieder jung!",
+          "id": "1io2R-CZ-ixQJxkEsSfcQh80k8rYx6vDS"
+        },
+        {
+          "title": "Folge 06 - Die Zeitreise",
+          "id": "19FJ3vVmyeFjJSLm1HLiCWtc5bdmUwcO3"
+        },
+        {
+          "title": "Folge 07 - Lloyds Mutter Misako",
+          "id": "1ZCb8nE9BKMBhwIRizM6tmO6j8rftlelT"
+        },
+        {
+          "title": "Folge 08 - Die Steinsamurai",
+          "id": "1An3IsKjVVc5hnLz5J0HGUc_LfQMuvrMf"
+        },
+        {
+          "title": "Folge 09 - Die Reise zum Tempel des Lichts",
+          "id": "1Mh6Orm_6x89pzC8uDZ40GFbNJBS8zOqd"
+        },
+        {
+          "title": "Folge 10 - Der Tempel des Lichts",
+          "id": "1R-Zlr1M317bwpnHn_6QqqRoNoNTQWqxM"
+        },
+        {
+          "title": "Folge 11 - Die dunkle Uhr",
+          "id": "1ad-q_ceBFHtnM4BA5kENN7WGqT_UT9pc"
+        },
+        {
+          "title": "Folge 12 - Garmadons neue Maschine",
+          "id": "11A4UXSg1nkaMkml5Bf2IR8dHEOPmF2y6"
+        },
+        {
+          "title": "Folge 13 - Der Ultimative Spinjitzu-Meister",
+          "id": "1U-qbSpmjIaKjD9fiBfx_V-mNFVcz_kut"
+        }
+      ],
+      "3": [
+        {
+          "title": "Folge 01 - Das neue Ninjago",
+          "id": "1fEICZXXU3fdYrOAsEXdHe9H9n2Vh88_9"
+        },
+        {
+          "title": "Folge 02 - Die Kunst, nicht zu kämpfen",
+          "id": "1yV_S1S-kvGybyJKpKXthU9ruOuRymwum"
+        },
+        {
+          "title": "Folge 03 - Das innere Gleichgewicht",
+          "id": "1fyNPHGCHU11j9iM71wYT23WCKzO_W3jC"
+        },
+        {
+          "title": "Folge 04 - Die Legende des Goldenen Meisters",
+          "id": "1776hEUcW7A6aIhADtWi1_J1FqamqEhnW"
+        },
+        {
+          "title": "Folge 05 - Die Computerwelt",
+          "id": "13LVi3Pw1Syo26Lzac62pOLXQkdb7vn2t"
+        },
+        {
+          "title": "Folge 06 - Projekt Arcturus",
+          "id": "1q4BHTmCYxj9Dx9r-448DCdNWrtmVRfk1"
+        },
+        {
+          "title": "Folge 07 - Die Ninja im Weltall",
+          "id": "1j4k8pooIlER8Rqr2DYKut_h2KiMudOSM"
+        },
+        {
+          "title": "Folge 08 - Der Goldene Meister",
+          "id": "109slMfHhHg5iE5PhcgspgN0PqcPArx53"
+        }
+      ],
+      "4": [
+        {
+          "title": "Folge 01 - Die Einladung",
+          "id": "17tsn1xHA2iRkCyyqI3Pvp8GVDyKnxEZa"
+        },
+        {
+          "title": "Folge 02 - Elementare Schwierigkeiten",
+          "id": "1GmfxSl2Z5a-sXCPkZBbb9yOMhM1hcC6J"
+        },
+        {
+          "title": "Folge 03 - Kenne deine Feinde",
+          "id": "1WoxFkls8mygcpqlkufi6nGEugWtFkXNp"
+        },
+        {
+          "title": "Folge 04 - Ninja auf Rollen",
+          "id": "1CnZMKsZpHU3xxyyDv0MHRh2E5_qFKJyK"
+        },
+        {
+          "title": "Folge 05 - Der Spion",
+          "id": "1lnTldpJEioLaLMV93wA2LX4cbDyy-jdZ"
+        },
+        {
+          "title": "Folge 06 - Die Geschichte der Anacondrai",
+          "id": "1FSEELPAzSIKjcCIIt2s_hNKYNd29ZyBT"
+        },
+        {
+          "title": "Folge 07 - Das letzte Element",
+          "id": "1qIQYeW05-CSuXYYzn2yhzPIHkhFi7s-w"
+        },
+        {
+          "title": "Folge 08 - Der Tag des Drachen",
+          "id": "17TF77SNp7QvDLYQdZeaB-24Ike15E4r_"
+        },
+        {
+          "title": "Folge 09 - Hilfe von Pythor",
+          "id": "1akPC_Qz_hf239xf6U5D5-8zNVEr-47ni"
+        },
+        {
+          "title": "Folge 10 - Der Pfad der Ältesten",
+          "id": "1AsqpG4ukZl_3M5NVZ5MCe1zFmi4qdmlT"
+        }
+      ],
+      "5": [
+        {
+          "title": "Folge 01 - Stürmischer Wind",
+          "id": "1ofC0ZwYl1iLULZRcgcKCytY2mEFW3yRX"
+        },
+        {
+          "title": "Folge 02 - Geistergeschichte",
+          "id": "1qUDO6d1ZzJVS2K9tNfBaKtr8eSyubCgE"
+        },
+        {
+          "title": "Folge 03 - Die Stadt über dem Wasser",
+          "id": "11_xDRnUXMgKe-M2eIi2jeAEohmSJGPXC"
+        },
+        {
+          "title": "Folge 04 - Sensei Yangs Prüfung",
+          "id": "1AF1Hnq6EIILKH88PtYQamrzCcHuSrmIg"
+        },
+        {
+          "title": "Folge 05 - Zyklon-Go",
+          "id": "1yXBtKWT7KSisNpK8ypQ--ZyN397xN3w1"
+        },
+        {
+          "title": "Folge 06 - Das Schwert der Prophezeiung",
+          "id": "1__3Je7n9qAHh0NR-hqrim8cel8jAf9Re"
+        },
+        {
+          "title": "Folge 07 - Falsches Spiel",
+          "id": "1VSNfbVi-9Ww185hPD1eRO137nREFqNpa"
+        },
+        {
+          "title": "Folge 08 - Die drei Prüfungen",
+          "id": "1VZI3XWmELsXkbcK61FIEzJhhfIeON-se"
+        },
+        {
+          "title": "Folge 09 - Der Weltenkristall",
+          "id": "1j_yJEPz8JNg_XeTQVTsmoz0iYfI92GIn"
+        },
+        {
+          "title": "Folge 10 - Die verfluchte Welt",
+          "id": "1rrglpFuZA-H4YCyxcSdkET18kcE1AfHK"
+        }
+      ],
+      "6": [
+        {
+          "title": "Folge 01 - Der Geist aus der Teekanne",
+          "id": "1xNAaW1oP-8WZddJBFdynjJK7Ruq1a8fA"
+        },
+        {
+          "title": "Folge 02 - Ronan auf Ninja-Suche",
+          "id": "1OUjBpISeI-8mQH3EcXCm4y9LgqbXRRjT"
+        },
+        {
+          "title": "Folge 03 - Das Vermächtnis des Dschinns",
+          "id": "1XNfSqRMk33iJsIDVDAVUW_O-nocbkFhk"
+        },
+        {
+          "title": "Folge 04 - Das Luftschiff des Unglücks",
+          "id": "1Jwh3d7sLu7NFCAievISlqm2-wU4BqXy7"
+        },
+        {
+          "title": "Folge 05 - Das Gift der Schwarzen Witwe",
+          "id": "14K87cmpiy0XvqeC9xbRsCyC-wU77CJBq"
+        },
+        {
+          "title": "Folge 06 - Nadakhans wahrer Plan",
+          "id": "1zsq1tQRw8-i0pJAVUyeZAIEg-k8Zk6QR"
+        },
+        {
+          "title": "Folge 07 - Wunschverschwendung",
+          "id": "1XWU_dlVDyMnQKeQ0PsQYXPjFeZJe47a5"
+        },
+        {
+          "title": "Folge 08 - Der alte Leuchtturm",
+          "id": "1SjZzdrvVUyySOH2Ls9pKSKaZbVmfPgM-"
+        },
+        {
+          "title": "Folge 09 - Das Ninja-Ersatzteam",
+          "id": "1VDOAWSLT13v4yUei6J9M5nKaN6HchRfJ"
+        },
+        {
+          "title": "Folge 10 - Der allmächtige Nadakhan",
+          "id": "1yMTLoRZpiCVpipQBOunGM5FcmFKVUhRv"
+        },
+        {
+          "title": "Tag der Erinnerungen",
+          "id": "1KcViHfXi1PFw5KNA0dMbOxIwrC3_DzoC"
+        },
+        {
+          "title": "Tales of the Crew",
+          "id": "16i-_YNI4ujCM5Q6QlNd-dsBdNIpXgFmY"
+        }
+      ],
+      "7": [
+        {
+          "title": "Folge 01 - Meister der Zeit",
+          "id": "1iG6i4TAvqPJp_YaqPUiVwyw9TT7snUCs"
+        },
+        {
+          "title": "Folge 02 - Das große Schlüpfen",
+          "id": "1VvVZaDp3RSlwDetd0Vjh9fYGDF5mlOT0"
+        },
+        {
+          "title": "Folge 03 - Geschwister",
+          "id": "1PGwgWjbN95Cec1hVOjAhmELw9nJbvEfX"
+        },
+        {
+          "title": "Folge 04 - Metalldiebe",
+          "id": "1b5m3aTys_kmbhe3nYBJteJLy67j9NfZZ"
+        },
+        {
+          "title": "OPERATION: HEAVY METAL - Machia (Englisch)",
+          "id": "1kKQpJQtJsCq6LWOMkbAiyqLYbu0Rwyhj"
+        },
+        {
+          "title": "OPERATION: HEAVY METAL - Buffmillion (Englisch)",
+          "id": "10KsMstaKfULPAedruttoOWgHIrXYBxkY"
+        },
+        {
+          "title": "OPERATION: HEAVY METAL - Blunck (Englisch)",
+          "id": "1wLP_3Avl3Zr9tnyANyqjlNrgZQwigHxy"
+        },
+        {
+          "title": "OPERATION: HEAVY METAL - Raggmunk (Englisch)",
+          "id": "1i3IveFdARkRTz6JQDn84QBC4hgnSF8M8"
+        },
+        {
+          "title": "Folge 05 - Die zweite Zeitklinge",
+          "id": "1ZufJVlAlWs_PNV9yq136dIbMzi4Sdj2T"
+        },
+        {
+          "title": "Folge 06 - Im Siegesrausch",
+          "id": "131PjHsLonVxK4Q5mYAgDFDLmhpZhtIz-"
+        },
+        {
+          "title": "Folge 07 - Jede Menge Geheimnisse",
+          "id": "1JvNCJeei7jALYs_8C277cihEyZieKCt7"
+        },
+        {
+          "title": "Folge 08 - Das Familientreffen",
+          "id": "1T-iNH7hhKekR7LFW5rJ3YRZXN9aSoYiC"
+        },
+        {
+          "title": "Sam X Rising",
+          "id": "1W2TFmCV8hu6wogORDRGZ6Qz6lzsIBoHc"
+        },
+        {
+          "title": "Folge 09 - Zwei wie Feuer und Wasser",
+          "id": "1NdwLocz-9uMHtXIWo6YD1aAvRuJjX5ha"
+        },
+        {
+          "title": "Folge 10 - Reise in die Vergangenheit",
+          "id": "1rszBFkrdOIpvQ2ryfWA46IhTCcNAZ1sj"
+        },
+        {
+          "title": "Golden Hour",
+          "id": "1ucLdGr1Qj7ymFPcCLdCTMHa3jslIMPAe"
+        },
+        {
+          "title": "LEGO NINJAGO MOVIE",
+          "id": "1U3t8iTk3RkAwHy1sJA1-rE6e4yx8Z_2z"
+        }
+      ],
+      "8": [
+        {
+          "title": "Folge 01 - Die Maske der Täuschung",
+          "id": "11JQupRH9Ga6sipN-m-TV5Zl8g7sUnVbb"
+        },
+        {
+          "title": "Folge 02 - Prinzessin Harumi",
+          "id": "1JFTOhhVaBXcb4xQxNzasMwo2ZziURJ4S"
+        },
+        {
+          "title": "Folge 03 - Die Oni und die Drachen",
+          "id": "17xEVSfsPm72S43x-po_eNKFjINCcmhIS"
+        },
+        {
+          "title": "Folge 04 - Jake Schlangenschleim",
+          "id": "1aeFrC7aUE-oGV_e--tov5fH83Va4guJU"
+        },
+        {
+          "title": "Folge 05 - Die Ruhe vor dem Sturm",
+          "id": "1AAJYVc7MqoCWZnPo9LAPLugblgOIOnrR"
+        },
+        {
+          "title": "Folge 06 - Im Auge des Urwalds",
+          "id": "1UOM6-dOwrnHPwvVqhMBgNtF_qmq8J98U"
+        },
+        {
+          "title": "Folge 07 - Die dritte Maske",
+          "id": "1CHIoKbGSC78HOoKxB7x74gD4ISG-EdLP"
+        },
+        {
+          "title": "Folge 08 - Die Zeremonie",
+          "id": "1rPMvJHmkSLn-Kk9gdqoCizBvIrwySZmv"
+        },
+        {
+          "title": "Folge 09 - Die wahre Macht",
+          "id": "1lZyg9hOdII-6G51OtGh7iIG2yTqAOpYE"
+        },
+        {
+          "title": "Folge 10 - Kleines Ninjago, großer Ärger",
+          "id": "1AGc1fnEioU2KpMhdouR-SqMjjhxtvT-M"
+        }
+      ],
+      "9": [
+        {
+          "title": "Folge 01 - Gib niemals auf",
+          "id": "1005jOI3H_4wgn4SRJCY5n-SKYj745vyQ"
+        },
+        {
+          "title": "Folge 02 - Bei den Drachenjägern",
+          "id": "10XOy2_dLtgZBthBRTHCO_UCEz-vtP7bU"
+        },
+        {
+          "title": "Folge 03 - Drachen anlocken",
+          "id": "1lzVq_mC5Sle9MDOXur_rRBrLB3Db57eQ"
+        },
+        {
+          "title": "Folge 04 - Wie man einen Drachen baut",
+          "id": "11XuanIekogtVNNo12yEcQrTgcHGBhJFj"
+        },
+        {
+          "title": "Folge 05 - Vertrauen",
+          "id": "1OwZ5gPEa35jYdUJ2zSeF_4zp2G9bLkhS"
+        },
+        {
+          "title": "Folge 06 - Das Oni-Land",
+          "id": "1mlFBOOErlGtuN5ZJc36g2yuryeHGwCs8"
+        },
+        {
+          "title": "Folge 07 - Die doppelte Harumi",
+          "id": "1KpOb61CHfpLXfVqzGTJwZ_Xy810uFrLa"
+        },
+        {
+          "title": "Folge 08 - Die Lügen des Eisenbarons",
+          "id": "1hus_Oor3ukVSRd38NDetFtP8D6OH_tY9"
+        },
+        {
+          "title": "Folge 09 - Das Drachennest",
+          "id": "14wfT6km_dRjDdMtzQ0ogkjDI0zqR6pAW"
+        },
+        {
+          "title": "Folge 10 - Lloyds Kraft",
+          "id": "1lRNdIQtIY6QFvGvEygM6hSJ63f1028Z3"
+        }
+      ],
+      "10": [
+        {
+          "title": "Folge 01 - Eine dunkle Gefahr",
+          "id": "19QdWCmHUEtsiC0_eSeh4I9LyOQjadrbQ"
+        },
+        {
+          "title": "Folge 02 - Zusammenarbeit",
+          "id": "175e4K60kz93puo-HG9M71hOLJ0ZjNS0R"
+        },
+        {
+          "title": "Folge 03 - Der Sturz",
+          "id": "1MIdV7H64zIEjYLPZ9ucbaMFzYg8chbua"
+        },
+        {
+          "title": "Folge 04 - Der Tornado der Schöpfung",
+          "id": "17nLZ3tcl3RPx2GecRBR8LZDu-HIVVTYz"
+        },
+        {
+          "title": "Episode 01 - Ninja Master Class - Tales from the Monastery of Spinjitzu",
+          "id": "1hXYKX1SOnlqpi3AGS06m5aZk2wcYJWY7"
+        },
+        {
+          "title": "Episode 02 - Green and Gold - Tales from the Monastery of Spinjitzu",
+          "id": "1kRiguwlw6yiDRzGllwXjR9rNfw8W16gf"
+        },
+        {
+          "title": "Episode 03 - The Weekend Drill - Tales from the Monastery of Spinjitzu",
+          "id": "1JNAGBE4vjwYAnEa21X4wJNA-_Engj5ag"
+        },
+        {
+          "title": "Episode 04 - Elemental Rider - Tales from the Monastery of Spinjitzu",
+          "id": "18ibrSUJVg2SV2OxtV0WjOVzuIwAtyyLN"
+        },
+        {
+          "title": "Episode 05 - Blue Lightning - Tales from the Monastery of Spinjitzu",
+          "id": "1Vap4k7wmBqPtlV8gcNmoy9mgJtfvX-G7"
+        },
+        {
+          "title": "Episode 06 - Samurai X Treme - Tales from the Monastery of Spinjitzu",
+          "id": "15cdSJjkkZkw5bBZhfTqo6Rnii8Duk_N9"
+        }
+      ],
+      "11": [
+        {
+          "title": "Folge 01 - Faule Ninja",
+          "id": "1j_f3RLXdO6AyX7Fa2vJxU3WmorRjSaF0"
+        },
+        {
+          "title": "Folge 02 - Nichts los in Ninjago",
+          "id": "1_ZAI5nVHh8Ux9g1j3PFJGlmlmcCP3WmO"
+        },
+        {
+          "title": "Folge 03 - Ein sandiger Start",
+          "id": "1rxJd493sbIq5MZmdkMPb2gu1tVsbVVXU"
+        },
+        {
+          "title": "Folge 04 - Gestrandet in der Wüste",
+          "id": "1qowZf9DrF1B9Ap8k4hHI1PvK1yOh5OQQ"
+        },
+        {
+          "title": "Folge 05 - Rätsel in der Pyramide",
+          "id": "1Gbur_B-0CxszFPDnnZFgbMOmm975HSD1"
+        },
+        {
+          "title": "Folge 06 - Der mutige Zeitungsjunge",
+          "id": "10krZmmMs5LRQc0HiiPwLk6c9hZofK7E9"
+        },
+        {
+          "title": "Folge 07 - Ninja gegen Lava",
+          "id": "1bRmhB_6a6_M248dOG_gVQD2TVjjCVSWw"
+        },
+        {
+          "title": "Folge 08 - Schlangastrophe",
+          "id": "1V57H7YHGHVTyoAPBsF-i_vefavsKLnpp"
+        },
+        {
+          "title": "Folge 09 - Die verbotene Schriftrolle",
+          "id": "12N0mNGEjjSBDZXDr9qckylfIoWnNPJDD"
+        },
+        {
+          "title": "Folge 10 - Schlangen-Geschichte",
+          "id": "1cj-soLaK4TsnPB_tw-5BUS0kw06rz_q2"
+        },
+        {
+          "title": "Folge 11 - Gebrochene Versprechen",
+          "id": "1fZQ5gVZCNYkQCyJWEiGH3qMsw8bfHRkH"
+        },
+        {
+          "title": "Folge 12 - Schlangen im Kloster",
+          "id": "1flll57SDu39r5bs9eiJyP97xYJCPSaCJ"
+        },
+        {
+          "title": "Folge 13 - Der Club der Entdecker",
+          "id": "1qqO0fOVm9sbnF-BNd9lJxmp3xJDrJ0ui"
+        },
+        {
+          "title": "Folge 14 - Aspheeras Rache",
+          "id": "1lH7O_vWqsi5Ru9A7fLVXN3CryBHi2Kab"
+        },
+        {
+          "title": "Folge 15 - Meister Wus Entscheidung",
+          "id": "1kV4DD2QdCz41Srzyb623SJw2Uj1SAamP"
+        },
+        {
+          "title": "Folge 16 - Das Niemandsland",
+          "id": "1mNpNWZy4GlP0UkDpqjDJSIl3wdUNeaor"
+        },
+        {
+          "title": "Folge 17 - Der Feuer-Macher",
+          "id": "1zhKaIBxWcpqyMeiswpOXcksEO7R0pBJC"
+        },
+        {
+          "title": "Folge 18 - Ein geheimnisvoller Freund",
+          "id": "15KEFWHBz2EUjMBI2rRnaS8IsjmedQWq2"
+        },
+        {
+          "title": "Folge 19 - Der schlimmste Ninja",
+          "id": "1qPwN8-Pd98A8dwLY-5OOz3YMrdqxd2Wt"
+        },
+        {
+          "title": "Folge 20 - Nachricht von Zane",
+          "id": "1_ZEjusHfVcep4SYZELo6YwuVl5fScSyE"
+        },
+        {
+          "title": "Folge 21 - Der Baum der Reisenden",
+          "id": "1R1SBWS76LUL_VaM_el2zRikn_1vfb6kx"
+        },
+        {
+          "title": "Folge 22 - Krag, der sanfte Riese",
+          "id": "1_47ZPVOV6zaxc3JmAqr4szdzKhrd8QPW"
+        },
+        {
+          "title": "Folge 23 - Das Geheimnis des Wolfes",
+          "id": "1IC48IEmOjEhsfevklS74QbeCHCl3FtXQ"
+        },
+        {
+          "title": "Folge 24 - Akitas Vergangenheit",
+          "id": "1giiHjgDAIyaLUkdUgBeVaB-2DnAJk_tw"
+        },
+        {
+          "title": "Folge 25 - Mein Feind, mein Freund",
+          "id": "1CtcQR5o70BDdYvZH7pP1kE2MLwimXX6N"
+        },
+        {
+          "title": "Folge 26 - Pixal gibt niemals auf",
+          "id": "1HBS65HjGE5Dg7Fn03p_l1EvJwojBVtzY"
+        },
+        {
+          "title": "Folge 27 - Vex und der Eiskaiser",
+          "id": "1sipRknc8W4Me3RkBkZ49w2xbgNZlhAlx"
+        },
+        {
+          "title": "Folge 28 - Ein unerwarteter Freund",
+          "id": "1R4R0L6txoJQ-vn7EZp8SuRBdrsSyAXAU"
+        },
+        {
+          "title": "Folge 29 - Gemeinsam gegen den Eiskaiser",
+          "id": "1Rx13sSApidEEr068ECmLouTXh5kJR8An"
+        },
+        {
+          "title": "Folge 30 - Zanes Erwachen",
+          "id": "1QZXxOz-pby_rbIFl6mi2bF7Ji03L-hht"
+        }
+      ],
+      "12": [
+        {
+          "title": "Folge 01 - Möchtest du Prime Empire betreten?",
+          "id": "1PecizFUgqJlhPnw9iagCOB_VN3KRQ-g1"
+        },
+        {
+          "title": "Folge 02 - Mayers Insel",
+          "id": "16xjXplpk5gWzeQthqgssXm4DTCa1x3bp"
+        },
+        {
+          "title": "Folge 03 - Level 13",
+          "id": "1GUkNaSOQ4EfB_jyFzwbnQ0keR7Ma6H4Z"
+        },
+        {
+          "title": "Folge 04 - Jay, der Superstar",
+          "id": "17i76T1uycsDpWA7dDXLf3fk3IFQ4Nrnr"
+        },
+        {
+          "title": "Folge 05 - Ich bin Okino",
+          "id": "1yOu_7POQFgxhH6CzOQdVNpxv_P07ZOr5"
+        },
+        {
+          "title": "Folge 06 - Im Wald der Verzweiflung",
+          "id": "1Ebl5_hLwP3PWOJMl8CWtZL1fI4PvXwNS"
+        },
+        {
+          "title": "Folge 07 - Die Klippen der Panik",
+          "id": "1-ED_zSptCqN4IfQ96kfp6HkCugPkHVGf"
+        },
+        {
+          "title": "Folge 08 - Im Labyrinth des Roten Drachen",
+          "id": "1DueupeRPrxAnEkHjOj2Q3_J5kkG3on1H"
+        },
+        {
+          "title": "Folge 09 - Der Tanzwettbewerb",
+          "id": "1gkQ9JIxgBh7w8Nu3UvfHVs3avTCb9t5Q"
+        },
+        {
+          "title": "Folge 10 - Der 5.Rennwagen",
+          "id": "17PMbk_YucjN6pdQ7OMln6xssp6Qs_X96"
+        },
+        {
+          "title": "Folge 11 - Das Fünf-Milliarden-Wettrennen",
+          "id": "1Kz6oYoCDsyFOwWPCqwa-C3ZZ2hzQzOHf"
+        },
+        {
+          "title": "Folge 12 - Terra Dronica",
+          "id": "1YIeFNNlhCTAUiTE8qG9eGwd9h8wEiz4K"
+        },
+        {
+          "title": "Folge 13 - Zane spielt Detektiv",
+          "id": "1DIV35it_VCdxPfu0krD3z8JRPOdZjvJf"
+        },
+        {
+          "title": "Folge 14 - Unagamis Portal",
+          "id": "1OR9sKggF0TnVLxDXXHkXs4Bf0TvHGSTB"
+        },
+        {
+          "title": "Folge 15 - Der Tempel des Irrsinns",
+          "id": "1mGHjeg5kMpNKQTuXjye_rm9cUSojO6mm"
+        },
+        {
+          "title": "Folge 16 - Game Over",
+          "id": "1fAN1gF2ZmaNRPazj16Di1ivW80r-rs4m"
+        },
+        {
+          "title": "Folge 17 - Shintaro",
+          "id": "1CTMGt4a9khnBAi8gAusxZmioSeRmem2o"
+        },
+        {
+          "title": "Folge 18 - In der Finsternis",
+          "id": "1Z68ghDi6-cpb71laESwQWnzIU4Mp6Mbx"
+        },
+        {
+          "title": "Folge 19 - Die schlechteste Rettungsaktion aller Zeiten",
+          "id": "1_yx6am6eUTkazBYvAEKTuJCRhb_s-wuw"
+        },
+        {
+          "title": "Folge 20 - Die doppelten Klingen",
+          "id": "13vNdfHYt-80mlDcB-kpXKAGmarLcMdq0"
+        },
+        {
+          "title": "Folge 21 - Königin Murtessa",
+          "id": "1KhFmaTJIjnJ6xUv6qXgSEK3uy74O8aYH"
+        },
+        {
+          "title": "Folge 22 - Die Prüfung des Mino",
+          "id": "1lYmw2DQJl1k10rD9dh11RLcCV4tBHFed"
+        },
+        {
+          "title": "Folge 23 - Der Totenkopf-Zauberer",
+          "id": "1ILDLyOxP9w6xF_JL_Z6tcTntn2mSJ_nO"
+        },
+        {
+          "title": "Folge 24 - Der tiefe Fall",
+          "id": "1JLHTpIVUs6K47PDg4e04XaIaYruXBzKB"
+        },
+        {
+          "title": "Folge 25 - Höhlen-Party!",
+          "id": "1k7ebZlGbFHD0yqXengDr2n3XaNV5psjU"
+        },
+        {
+          "title": "Folge 26 - Cole und sein Element",
+          "id": "13nj8pPzAaliNMTJNI2m1LgBC3vpKtLbd"
+        },
+        {
+          "title": "Folge 27 - Der Gigant-Drache",
+          "id": "1nnoH0Y4N-JbaJbUUyFVE-ETH0Hb42GRV"
+        },
+        {
+          "title": "Folge 28 - Meister geben niemals auf",
+          "id": "174IqNwElGEJkvdRzi2wH7nW408P-MLOw"
+        },
+        {
+          "title": "Folge 29 - Die Schutz-Höhle",
+          "id": "1NhHlo6l07tK9SdYHn0U-IvnzQ_Z9TIXS"
+        },
+        {
+          "title": "Folge 30 - Der Aufstieg",
+          "id": "1yDzkKRzABe7DNZynpNOFdj82eYIlP8tC"
+        },
+        {
+          "title": "Folge 31 - Die Oblies schlagen zurück!",
+          "id": "1UIexsrGSonjHCJNsL4FfvYxJpeku4Ysb"
+        },
+        {
+          "title": "Folge 32 - Der Sohn von Lilly",
+          "id": "1Fu4NMqvKd0KkvySZt_eNPHWEwgMxwKg-"
+        }
+      ],
+      "13": [
+        {
+          "title": "Folge 01 - Die geheime Insel",
+          "id": "1Yq9ZPui9pHajpbPakpUWDN0gZIKIEIRw"
+        },
+        {
+          "title": "Folge 02 - Die Hüter des Amuletts",
+          "id": "1wo_X8CJjlBYtFkPTWUf4WXp2b30IOkKj"
+        },
+        {
+          "title": "Folge 03 - Ein Geschenk namens Jay",
+          "id": "1tB8BJwBCO8VlE4Ony4U2nqZVerPaOQWL"
+        },
+        {
+          "title": "Folge 04 - Der Zahn der Wojira",
+          "id": "17speZmkTd2HLx7-2PPhJ1EyvZUSKPDhb"
+        },
+        {
+          "title": "The Virtues of Spinjitzu",
+          "id": "1SjvpKb-QYwf2Mvw0kT3U7xMLaXBNt8If"
+        },
+        {
+          "title": "Folge 05 - Ein Wasserproblem",
+          "id": "1BGJPoWau-LiU9ya7RXiAiXORB194KmcR"
+        },
+        {
+          "title": "Folge 06 - Der Ruf der Tiefe",
+          "id": "1F53ls5IH1ezsDN8kzugcrN8_fJTci8yn"
+        },
+        {
+          "title": "Folge 07 - Auf Tauchstation",
+          "id": "1l0DZrRDA7zEAIrFWanI3xyU46GLQSThC"
+        },
+        {
+          "title": "Folge 08 - Fünfzehntausend Meter tief",
+          "id": "1qTBlmsXHd28EM9xuPEVneJ8rVD9B_k80"
+        },
+        {
+          "title": "Folge 09 - Ärger mit Kalmaar",
+          "id": "1SI4twmwUhGT8dI8EfCGFc8IIhFFvVN7d"
+        },
+        {
+          "title": "Folge 10 - Lang lebe der König!",
+          "id": "1cujufS_gan2Q9RUfm5PV_SK_JHEPHVwo"
+        },
+        {
+          "title": "Folge 11 - Befreiung aus Merlopia",
+          "id": "1Jhgmyfz2zMAjrmwW_wVt4l267upKmpQp"
+        },
+        {
+          "title": "Folge 12 - Die Geschichte von Benthomaar",
+          "id": "1PWLLZFfCBQgIHgsWWqTuQfUOv5BXWoMV"
+        },
+        {
+          "title": "Folge 13 - Das Sturm-Amulett",
+          "id": "14oqdkMEgzk2btVv8b4OHA8iUV-9GvGlp"
+        },
+        {
+          "title": "Folge 14 - Das Rätsel der Sphinx",
+          "id": "1jTK0ZuEDLXOycz56tOh6_6K5FdXKw99C"
+        },
+        {
+          "title": "Folge 15 - Die Zeitungsbotin",
+          "id": "1qgjubXTFVe4zOFvk07R6BVINML_2OF_S"
+        },
+        {
+          "title": "Folge 16 - Meisterin des Meeres",
+          "id": "1wmrKIenbOcjm1LIqOMvxmSeakUbAmqp_"
+        },
+        {
+          "title": "Folge 17 - Die Ruhe vor dem Sturm",
+          "id": "1Z4ZVpcmerx0YB21ov6-06RIU0fkklUYO"
+        },
+        {
+          "title": "Folge 18 - Ninjago unter Wasser",
+          "id": "1QitOrbyJUrE0EY1Q6kXtK59CrITlmNlE"
+        },
+        {
+          "title": "Folge 19 - Nyad",
+          "id": "1cEqcPOoEXbZBEUeek3oseKZfq92HoIJU"
+        },
+        {
+          "title": "Folge 20 - Gezeitenwende",
+          "id": "15QQ5gdrVcfXNP7rQyLEETly5UKHtfEp6"
+        },
+        {
+          "title": "Legacy Shorts",
+          "id": "1XFtDcGdxR7gULGEPZ-U91N0DrWVay1I2"
+        }
+      ],
+      "14": [
+        {
+          "title": "Folge 01 - Abschied vom Meer",
+          "id": "1XDYn7xalDOYF1L3ljCY1wY6apoMVNIdX"
+        },
+        {
+          "title": "Folge 02 - Der Ruf der Heimat",
+          "id": "1IW2cqPGJ_00NiF3y36q862sCbkz_agSe"
+        },
+        {
+          "title": "Folge 03 - Nyas Gestalt",
+          "id": "1hdcc6F-V4xdRn6TmA9c5r8bFRTgqaWpo"
+        },
+        {
+          "title": "Folge 04 - Ein geheimes Problem",
+          "id": "1hWrit3cSM4bJuN9IJqS2f-AwQb3a2mP-"
+        },
+        {
+          "title": "Folge 05 - Die Gesuchten 1, 2, 3, 4 und 5!",
+          "id": "1q71Lopa-fh8pqDUhFImVuSaMnWEnjUX6"
+        },
+        {
+          "title": "Folge 06 - Ein verhängnisvolles Versprechen",
+          "id": "1MVBjO7Nm0GoDpPaAlkEnIqO413dHtFo-"
+        },
+        {
+          "title": "Folge 07 - Die Ninja vor Gericht",
+          "id": "12Tci01lK4BA64-qwXAsNLkCUBppKl5DM"
+        },
+        {
+          "title": "Folge 08 - Frust im Gefängnis",
+          "id": "14YPzcfNgdYhXpuVEQ89dGkPGZQHCtKKs"
+        },
+        {
+          "title": "Folge 09 - Flucht in die Wüste",
+          "id": "1tdoUaBe4czB1yrEhzdPdx6GAEdVQ9hLl"
+        },
+        {
+          "title": "Folge 10 - Nützliche Gefühle",
+          "id": "10LsrmFvrQQlKG2UCzY7oMQWN8s9OYRPi"
+        },
+        {
+          "title": "Folge 11 - Der fünfte Schurke",
+          "id": "1vLUNwMCRSPuWtwyPLBMgikT3zTgP6eSh"
+        },
+        {
+          "title": "Folge 12 - Der Rat des Diamantkönigs",
+          "id": "1_q6HM4BBQ5zRqfT2L78cgmSRq2rgMA6U"
+        },
+        {
+          "title": "Folge 13 - Schatten der Vergangenheit",
+          "id": "1zHIZuzVUti6g4cp5tNhh9oQCFR67W5T2"
+        },
+        {
+          "title": "Folge 14 - Die Diamant-Spinnen",
+          "id": "1iTMZXF2fxGQ9jN9I90eYt6JZf8ojqLk3"
+        },
+        {
+          "title": "Folge 15 - Der Fall des Klosters",
+          "id": "1lz5rSXw2T_WmQx2cnxSV4A0Gatkc96WM"
+        },
+        {
+          "title": "Folge 16 - In der Dunkelheit",
+          "id": "1S3yjQtiTZFacBWnU04f_nseiv9tsV1J5"
+        },
+        {
+          "title": "Folge 17 - Die Wiederkehr des Königs",
+          "id": "15Fr7kTq4QYw39hi5v4GMW8tKW9Txx3IC"
+        },
+        {
+          "title": "Folge 18 - Rückkehr ins Auge des Urwalds",
+          "id": "1afawMcUeywmPZqmWKc7W2kzOOBuTLqMF"
+        },
+        {
+          "title": "Folge 19 - Diamanten-Drama",
+          "id": "1ujA5WC6KuPxrXJ-dIKUHNmpqo3NT9jOw"
+        },
+        {
+          "title": "Folge 20 - Christofarn",
+          "id": "15E7buhDHANRKKbvx5C79WPo645cmFJaG"
+        },
+        {
+          "title": "Folge 21 - Oni-Unterricht",
+          "id": "1ZFE9MsVwFTHDS_ksAgkOwqSdmGd-YZTg"
+        },
+        {
+          "title": "Folge 22 - Mutig, aber unklug!",
+          "id": "1GgPiDv0jaWpQChONRP7uX0-5FYLw8tNS"
+        },
+        {
+          "title": "Folge 23 - Gib niemals auf",
+          "id": "1hiQdgfX5R-Fx3H3hrlhUPAy06jf8vKOT"
+        },
+        {
+          "title": "Folge 24 - Die Rückkehr des Eiskaisers",
+          "id": "1LFQrSuhjY6fPBVPaSj1rZ8N0C0APy-Es"
+        },
+        {
+          "title": "Folge 25 - Ein Zufluchtsort",
+          "id": "1Aq_GneCpSFdxkm-ERBbF7vTvzX7vZzYX"
+        },
+        {
+          "title": "Folge 26 - Was zusammenpasst",
+          "id": "1e0sXjtLS66GANTA8uO2szP1uEwqu2i1T"
+        },
+        {
+          "title": "Folge 27 - Notrufe",
+          "id": "11bXD9kYnwLic3z9DbY8P8MBXgZdsFPbK"
+        },
+        {
+          "title": "Folge 28 - Eine Frage des Vertrauens",
+          "id": "13OigWFeZXEpI7X4CIEoDVWha2KSXhUu4"
+        },
+        {
+          "title": "Folge 29 - Die Drachen-Form",
+          "id": "1UQYkhwXP13MWviRv8BtbW_X82N1srfdR"
+        },
+        {
+          "title": "Folge 30 - Wurzeln",
+          "id": "1_ACLnIhS-CL2ijyQZlQHSXLSMuahwSdv"
+        }
+      ],
+      "15": [
+        {
+          "title": "Ninjago Legends Monstrosity (Englisch)",
+          "id": "1OOEn-t6Ha4G3U1D1jBQGBfhlsAvQPBNO"
+        },
+        {
+          "title": "Ninjago Legends Kais Monströse Reise (Englisch)",
+          "id": "1kSXYIC4fOqERZaN8xTOXQz5vAozO58Il"
+        },
+        {
+          "title": "Folge 01 - Die Verschmelzung: Teil 1",
+          "id": "1YDJUuAqpdbag6U8oZZUalhHwSWRqE_5b"
+        },
+        {
+          "title": "Folge 02 - Die Verschmelzung: Teil 2",
+          "id": "1zTLQl8OE_8VDdrHw0WA3l0pWXL49BnhV"
+        },
+        {
+          "title": "Folge 03 - Der Crossroads-Jahrmarkt",
+          "id": "1C7EjP1QPcWJMmpILT1QjFtzDBRtRJ-Pj"
+        },
+        {
+          "title": "Folge 04 - Jenseits des Irrsinns",
+          "id": "1lGpn7wZiK3RSW9LtnH2dZCFedMnJxHhO"
+        },
+        {
+          "title": "Folge 05 - Die Schicksalsschreibenden",
+          "id": "1np2eIYA8njdzzrb7OGx957TWmnVpKzpT"
+        },
+        {
+          "title": "Folge 06 - Rückkehr nach Imperium",
+          "id": "1FaRmVvQleSjLyXfC-7s6KYrlN7kCStXX"
+        },
+        {
+          "title": "Folge 07 - Wyldfyre",
+          "id": "1TdUPvt9puU270U_1E2cUegrouJncyUws"
+        },
+        {
+          "title": "Folge 08 - Ich bin die Gefahr!",
+          "id": "150XXv3_Sf5-xB6_r1dpMuBvf-FJHZ3cX"
+        },
+        {
+          "title": "Folge 09 - Die innere Ruhe",
+          "id": "1QqmmoAqp7auDdGfFMzYYaFVMiPODZ14a"
+        },
+        {
+          "title": "Folge 10 - Der Kampf um das Imperium-Kloster",
+          "id": "1KQV4PxXLBIY0Qk7lKSw5tJKoGCpsVlkD"
+        },
+        {
+          "title": "Folge 11 - Der Tempel der Drachenenergie",
+          "id": "1f6hvC3YwgfXiU8Crk_zn49FVnifpiq49"
+        },
+        {
+          "title": "Folge 12 - Die Riesenkrabbe",
+          "id": "1sK7dhxzJ9dcgNy51SSu9p5Y0TMmKoZ4v"
+        },
+        {
+          "title": "Folge 13 - Wenn einer lacht ...",
+          "id": "1pOVrudX3KPubbf9p4wIUed1WNPzt5h4i"
+        },
+        {
+          "title": "Folge 14 - Der letzte Djinn",
+          "id": "12XhQRW3NcxZjas9bLaYFU0RkHGTh9WRd"
+        },
+        {
+          "title": "Folge 15 - Der Unmögliche Pfad",
+          "id": "1vDd7MdrXSeqyVqVPEha2HOUD5yrTST-K"
+        },
+        {
+          "title": "Folge 16 - Land der verlorenen Dinge",
+          "id": "1xmgGJTX5OJECKUqwD0S5TKkOY0B4yHll"
+        },
+        {
+          "title": "Folge 17 - Die Verwaltung",
+          "id": "1piXlOeOQOKKdJu2-joiNYiU7U2O9PNgf"
+        },
+        {
+          "title": "Folge 18 - Die Absolute Macht",
+          "id": "1bnzm4EtKjKsnT0ISz0guwK4iaQSSX6jN"
+        },
+        {
+          "title": "Folge 19 - Wir sind alle Drachen",
+          "id": "1QbqUSLedcUYrFC_ma8wIhd6uAD1F4iU2"
+        },
+        {
+          "title": "Folge 20 - Die innere Kraft",
+          "id": "11-gKq1COEzy7P22YmBDV6A29Ur0dows5"
+        },
+        {
+          "title": "Episode 01 - What the Mech - The Elemental Mechs (Englisch)",
+          "id": "1VS3y9mZ3CX280xlHHGsDqYi4WjY5ODii"
+        },
+        {
+          "title": "Episode 02 - The Mech Master - The Elemental Mechs (Englisch)",
+          "id": "19eQZKQ_lWohG4K_PY92D452bZ5ByOxnK"
+        },
+        {
+          "title": "Episode 03 - A Pain in the Mech - The Elemental Mechs (Englisch)",
+          "id": "1KKdkaTYoyoz01Us-FbH-gGJ197pe2kNE"
+        }
+      ],
+      "16": [
+        {
+          "title": "Folge 01 - Der Blutmond",
+          "id": "1mGMkQ1zzswZgWHYfp18cKGaBvyYlTTLM"
+        },
+        {
+          "title": "Folge 02 - Gong der Zerstörung",
+          "id": "1P_jLkHqL3YWuVxamFHwQw4kke2PKYo5H"
+        },
+        {
+          "title": "Folge 03 - Jenseits der Vision",
+          "id": "1-pAvl5qt75VzgHszX7Ev9Zd2Jj2OimBM"
+        },
+        {
+          "title": "Folge 04 - Die Macht aus dem Osten",
+          "id": "1jMt1vW4KuOJWJLmqJIL5gAf5S8gkbm-V"
+        },
+        {
+          "title": "Folge 05 - Eine echte Familie",
+          "id": "19uquhRsYvevoHTIrqfydEYpI4b_LLHR0"
+        },
+        {
+          "title": "Folge 06 - Auf nach Mysterium!",
+          "id": "16yJJ7vL0-8hOckMJ7NTfLleOYyAxaFIS"
+        },
+        {
+          "title": "Folge 07 - Der dritte Drachenzahn-Ninja",
+          "id": "1C6Mv8TY2dmpP_LuV-eDuAYK5eZsrnQ7s"
+        },
+        {
+          "title": "Folge 08 - Geheimnisse in Wyldness",
+          "id": "1V7mk7Ml1hSwPp1UhGS_yPRIYCESEqcer"
+        },
+        {
+          "title": "Folge 09 - Der Wald der Geister",
+          "id": "1Mm-gW9FK84ll-XjqSi7zgPA-jhizyF-h"
+        },
+        {
+          "title": "Folge 10 - Das Blutmondritual",
+          "id": "12Jdg1dq-bc0P65fl5zW6sjgPnCJw-h2P"
+        },
+        {
+          "title": "Episode 01-03 - Wyldfire: Return To The Wyldness (Englisch)",
+          "id": "1VEpahSva7Qvvw6H_azQQe2zQyEe19xvd"
+        },
+        {
+          "title": "Folge 11 - Der Quelldrache der Bewegung",
+          "id": "1N_EqBMwHx9bPkDFQsa2xKMjyTTK-wagA"
+        },
+        {
+          "title": "Folge 12 - Einladung zum Turnier der Quellen",
+          "id": "1MwxgcgGjEZDmgL2k72pFFBJAl-_BglTn"
+        },
+        {
+          "title": "Folge 13 - Das Festmahl vor dem Turnier",
+          "id": "1MxUwFzWD7Dr-ChMTw8J5Uznrg9U5jSPf"
+        },
+        {
+          "title": "Folge 14 - Alte und neue Verbindungen",
+          "id": "1dMblCVOXCRKO-Z-V4pRk0ho6FwQWeAXx"
+        },
+        {
+          "title": "Folge 15 - Zusammenhalt und Zweifel",
+          "id": "1s6mMZd2fclFA3KOcZxL-iYzMgWiPkhBP"
+        },
+        {
+          "title": "Folge 16 - Wahrheit und Lügen",
+          "id": "1SKpp-koNYQP6eLhkxiNYqESh_6zCYPB9"
+        },
+        {
+          "title": "Folge 17 - Das Schwert",
+          "id": "1f2FlIbJZVE0WCdQr03NPpZpE5-N-iyUH"
+        },
+        {
+          "title": "Folge 18 - Hinweise und Verdächtige",
+          "id": "1ktPzusETyzn4_0SRhkPMNrMtyufnZQSY"
+        },
+        {
+          "title": "Folge 19 - Das letzte Spiel",
+          "id": "1uYt0sHVTaKEiDKm63i__2U8PfTU-U1Uj"
+        },
+        {
+          "title": "Folge 20 - Elemente des Verrats",
+          "id": "1DEWMw2XTubGp__WmTQZHTavTL0RlTxv_"
+        }
+      ],
+      "17": [
+        {
+          "title": "Folge 01 - Die Verschwundenen",
+          "id": "1LHAiKwRipRvZpk3JcyZnuFIn4MRvKaPd"
+        },
+        {
+          "title": "Folge 02 - Der Zyklop",
+          "id": "17nB7feOqTfrmv1b2CS7XAHS6AQYjvild"
+        },
+        {
+          "title": "Folge 03 - Die Geisterlande",
+          "id": "1lUqFMN4ZQuZ4dnyyacFjRyrgmpU6BtLX"
+        },
+        {
+          "title": "Folge 04 - Zane und die Kapsel",
+          "id": "1MPkf1aCzevQTgkO8I4vFbsDRaPFH76gY"
+        },
+        {
+          "title": "Folge 05 - Das Versprechen von Ras",
+          "id": "1HFoBy7HKexWvyeTqn5EXtn5A9DJ1tKWh"
+        },
+        {
+          "title": "Folge 06 - Unerfüllte Wünsche",
+          "id": "1TZ5eTEgrcngPTvlgaB6T5nWheKd53dkK"
+        },
+        {
+          "title": "Folge 07 - Auf Wunsch der Drachen-Majestät",
+          "id": "1eg-VN4GNpYaz58bM3LyEaaaoFuHNva-a"
+        },
+        {
+          "title": "Folge 08 - Zusammengekracht",
+          "id": "1xYqzIGLvqQ_d-2Fk8z9xfGXb_OWSVP4g"
+        },
+        {
+          "title": "Folge 09 - Entfesseltes Chaos",
+          "id": "13IwzuetUo-U08lUh4i7_XWW091eIQ_YO"
+        },
+        {
+          "title": "Folge 10 - Der Zerstörerdrache des Chaos",
+          "id": "1FqbGPyoWVygdXrRACScP1_l1wSBUbBeu"
+        },
+        {
+          "title": "Folge 11 - Die Suche nach dem Pontifex",
+          "id": "1HOtIQkaNjX3yTmDwNq6oNWh61O17s1II"
+        },
+        {
+          "title": "Folge 12 - Zurück in der Verwaltung",
+          "id": "1d9YRaW4yIUjpqO01WaHjEmOgqFYiFH6m"
+        },
+        {
+          "title": "Folge 13 - Im Land von Lee",
+          "id": "1ChZeQRiCvFMuZZegHzxqLdxJTZOFIKGS"
+        },
+        {
+          "title": "Folge 14 - Durchgang in die Unterwelt",
+          "id": "1-svXtEP_yi0gi4LwjqZdGHH6_5RR3qjX"
+        },
+        {
+          "title": "Folge 15 - Echte Freundschaften",
+          "id": "13OGDl1bILHouZiKoh9IQj6fp7wruHcN9"
+        },
+        {
+          "title": "Folge 16 - Der Prisma-Mond",
+          "id": "1W2TMD3fY3ApdvsbyD0N9-FT_HsKQ8XYp"
+        },
+        {
+          "title": "Folge 17 - Die Fokus-Gruft",
+          "id": "1P-xk3mIWd4-CM0Ijr8pDhVR2mOPBaIx1"
+        },
+        {
+          "title": "Folge 18 - Wenn die letzte Stunde schlägt",
+          "id": "1uzYFh-orfQbMAcUeKVCN7f_Y4GyTJZgU"
+        },
+        {
+          "title": "Folge 19 - Die Melodie",
+          "id": "1NtswkYcNqzp_tSrPNmimNvmt8juawzbQ"
+        },
+        {
+          "title": "Folge 20 - Chaos ohne Ende",
+          "id": "1HM_tnUD9eqz8BAJABEGJKuRmMorMa5_I"
+        }
+      ],
+      "Entschlüsselt": [
+        {
+          "title": "Folge 01 - Die Geschichte der Ninja",
+          "id": "1XQG1md5Z_evVrdBUSj_kzVo3oNBV-_u-"
+        },
+        {
+          "title": "Folge 02 - Das Fahrzeug-Puzzle",
+          "id": "1CyA1J54u3-itXk0m8kxHByzOY-01_IbP"
+        },
+        {
+          "title": "Folge 03 - Legendäre Orte",
+          "id": "1o0mSMTEYuex8-mkQAc-_tTw-UiuDAjnu"
+        },
+        {
+          "title": "Folge 04 - Ninjagos Bösewichte",
+          "id": "1vYbDoOD7khFYW6CIZGafOZgyVADcWHCp"
+        },
+        {
+          "title": "Folge 05 - Technologie und das Digiversum",
+          "id": "1ZWuSIskpYozInOXhpRsqMVgOoQQcjf6b"
+        },
+        {
+          "title": "Folge 06 - Die Elementaren Meister",
+          "id": "1dS9fwhrzl4WxtG6FPJEGXK8SkGTLyO-d"
+        },
+        {
+          "title": "Folge 07 - Monster und Drachen",
+          "id": "16sOHERsxuld951dex-_8UPjQ2TLOSDkz"
+        },
+        {
+          "title": "Folge 08 - Die Geschichte von Garmadon",
+          "id": "1Zu4xboWTHUJ76awPG03tCQsMCcqRglmj"
+        },
+        {
+          "title": "Folge 09 - Die Prophezeiung des Grünen Ninja",
+          "id": "193Rq7en60Ut6lRaOPcbizHmIyzsqkD2l"
+        },
+        {
+          "title": "Folge 10 - Die Größten Siege",
+          "id": "1qp0qorxnk6UclQvmWSlwkFK1oVbhwGUy"
+        }
+      ],
+      "WusTee": [
+        {
+          "title": "Folge 01 - Geheime Teesorten",
+          "id": "1ElfyF39aWuf5LYGoHkf2NCv85kkBLx7S"
+        },
+        {
+          "title": "Folge 02 - Drehendes Schild",
+          "id": "12uTC0W5IIcaaAKyyxldZzExGF906OcnK"
+        },
+        {
+          "title": "Folge 03 - Musik Nacht Teil 1",
+          "id": "1k9ryAWP3Sf6UuFB5N560mjg6qnJZx2E5"
+        },
+        {
+          "title": "Folge 04 - Musik Nacht Teil 2",
+          "id": "1lrp0WvZ92Gu1hA_XCSTrUbkdibWfuH4B"
+        },
+        {
+          "title": "Folge 05 - Namen",
+          "id": "1lfNSRduwP2NuRQel_4DA030iOCcOiXZ0"
+        },
+        {
+          "title": "Folge 06 - Lustige Kerle",
+          "id": "1-6RmxEEsVfIx_HEqtrqAnio19t4EvHkt"
+        },
+        {
+          "title": "Folge 07 - Kontrolltag",
+          "id": "19kkN9FYhiRnGBTMQA1uvmcP7mCGV6iRw"
+        },
+        {
+          "title": "Folge 08 - Panda-monium",
+          "id": "1B8p9sg_AgZzGi_-nIWBUjNmYNuET6jEs"
+        },
+        {
+          "title": "Folge 09 - Ferngesteuerter Zane",
+          "id": "1e5uNiMP0oSyFH8ezEQmwK3oipjyAGLZj"
+        },
+        {
+          "title": "Folge 10 - Trojanische Teekessel",
+          "id": "1k-kXm17r-dketRXGPMI-AEDvWR4X80Ei"
+        },
+        {
+          "title": "Folge 11 - Mysteriöser Staub",
+          "id": "18Zut44Ty_6lbCE0mc_3KOr8Vw6PSaGjr"
+        },
+        {
+          "title": "Folge 12 - Besonnener Kai",
+          "id": "1Tk4OxOhZZcs015jAC_IziFIS9vqkvHBH"
+        },
+        {
+          "title": "Folge 13 - Geheimagent Zane",
+          "id": "1fbG6NEyn73UFYwtNTnBwqnbYA2oxvs9B"
+        },
+        {
+          "title": "Folge 14 - Verspäteter Lloyd",
+          "id": "1S_Po6idCIrAB_VhrYoI1BEOxTWmOkNIE"
+        },
+        {
+          "title": "Folge 15 - Strenge Kontrolle",
+          "id": "1N5fITPgkmrPNQL5sDvxHjwDJ0NPTbish"
+        },
+        {
+          "title": "Folge 16 - Der Münzwurf",
+          "id": "19ObxKFWstTtPcG0qI8EZXOuF1hHCDYOW"
+        },
+        {
+          "title": "Folge 17 - Nyas Gemälde",
+          "id": "16E-aDLfjLmdU3L96spbWAARoLt2OJ0IY"
+        },
+        {
+          "title": "Folge 18 - Zanes Schachspiel",
+          "id": "1Oz9t0GgeLV9FDMPGg2VBaOAVpw_1GbqB"
+        },
+        {
+          "title": "Folge 19 - Der Geschmackstest",
+          "id": "15WnouTJ0Jl2iiqvETiqYdEciN93GUiAt"
+        },
+        {
+          "title": "Folge 20 - Eine wunderbare Freundschaft",
+          "id": "1f-Pa3MgSOtAhDs3q1SybOU2N14Ig8EkZ"
+        }
+      ]
+    }
+  },
+  "serie3": {
+    "name": "Monkie Kid",
+    "staffeln": {
+      "1": [
+        {
+          "title": "Episode 01 – Ein Held ist geboren + Schlechtes Wetter",
+          "id": "1lLHhcnIGbMsMHuZbwVyaK5uZ9H0ADdjx"
+        },
+        {
+          "title": "Episode 02 – Klon-Land",
+          "id": "1Pn0ROqQaabH4eckhygVEavpX9SdO5uK"
+        },
+        {
+          "title": "Episode 03 – Zuhause",
+          "id": "1oO8CdGUUdzqzflOvvPhwxeNP_DFjUx98"
+        },
+        {
+          "title": "Episode 04 – Nudeln oder Tod",
+          "id": "1Xy_QoT0f7MH2QJnMIqxPlDEqG89iZhBS"
+        },
+        {
+          "title": "Episode 05 – Kalebasse",
+          "id": "1pTjIccyUPfiEfPdoFBFZ471mqO4DAULy"
+        },
+        {
+          "title": "Episode 06 – Das Große Rennen",
+          "id": "1gQpYeA7Y9SwSMUHJ3JMYgJA62xZ8YFbG"
+        },
+        {
+          "title": "Episode 07 – Unmögliche Zustellung",
+          "id": "1MTHO4SX9xeXgLgrphy0KkDthkXO7X7MZ"
+        },
+        {
+          "title": "Episode 08 – Skelett-Schlüssel",
+          "id": "19ZGo71sl9-uoirUDcCIsgoJvGG70o0rh"
+        },
+        {
+          "title": "Episode 09 – Makack",
+          "id": "1_KkJrGAU9giDgX2kADtJetjvuc6N2Z3G"
+        },
+        {
+          "title": "Episode 10 – Das Ende ist nah",
+          "id": "1zK4a2BqRtnUbydlClKu33WWjown0a2ZB"
+        }
+      ],
+      "2": [
+        {
+          "title": "Special 02 – Revenge of the Spider Queen (English)",
+          "id": "18un9XTtzF02p9S3KXDNPBEJCbByy78WI"
+        },
+        {
+          "title": "Episode 01 – Der Schlaf-Virus",
+          "id": "1xj5zdK7C_31jOLfRZqz3vEyoHtaSqYxR"
+        },
+        {
+          "title": "Episode 02 – Zerstörerische Teigtasche",
+          "id": "1l69Z4gt0QAMeaHF6xw5XMfPLQYYfNrGr"
+        },
+        {
+          "title": "Episode 03 – Pig Pong Panik",
+          "id": "16_rK4BVZyfpyEttviG91veEmFaW8QCkL"
+        },
+        {
+          "title": "Episode 04 – Süß-Sauer",
+          "id": "1hPEYiYYf05XLMDPC0P8-f5Bvw27_LCf2"
+        },
+        {
+          "title": "Episode 05 – Kleines Maß",
+          "id": "1ExqFJ8CvApdhp0wHCYZTx-dQvhMle2eA"
+        },
+        {
+          "title": "Episode 06 – Spielstart",
+          "id": "1FTrBEJ0RF5BchTkBbG85vpRolhVImaTu"
+        },
+        {
+          "title": "Episode 07 – Schattenspiel",
+          "id": "1mrpOKlEH_tkKNEaEq3IunaKklI6OkyXL"
+        },
+        {
+          "title": "Episode 08 – Ein Tässchen Tee",
+          "id": "1BWrHw0u1ne440MrFAPEJxNVmfZTXt3Lg"
+        },
+        {
+          "title": "Episode 09 – 72 Transformationen",
+          "id": "1ow-BtymhFBwS84bWZXw4zsQZP0eDGX_1"
+        },
+        {
+          "title": "Episode 10 – Das ist das Ende",
+          "id": "10Wl3AAdAL3dFcLiAlRpvtTlFA0xfJyth"
+        }
+      ],
+      "3": [
+        {
+          "title": "Episode 01 – Auf der Flucht",
+          "id": "1YtrJujbfyGIHT5ytAUibHtb0oMWCL5dp"
+        },
+        {
+          "title": "Episode 02 – Das Unterwasserabenteuer",
+          "id": "1hbGY83DEnZrglvVP4OvCOeYlzSKJnheD"
+        },
+        {
+          "title": "Episode 03 – Kluges Kind",
+          "id": "1vqVYWbR4fPCp6oY9uveIzpxHmmpeZ2jm"
+        },
+        {
+          "title": "Episode 04 – Die Seite des Gewinners",
+          "id": "10-xjdm1MspsejAmD63ilAFfWolaONxIK"
+        },
+        {
+          "title": "Episode 05 – Amnesie Regeln",
+          "id": "11pu5vgXlKQmyVPrHXkzToCf_9YKLXEhB"
+        },
+        {
+          "title": "Episode 06 – Der erste Ring",
+          "id": "12nki-6OCM_IdfDbzKB_jnedR9tN5dwsU"
+        },
+        {
+          "title": "Episode 07 – Die Kochshow",
+          "id": "1hfG1RR6qZFYPZKAPJINOO5KuXjYCoVQ_"
+        },
+        {
+          "title": "Episode 08 – Ausgeschlossen",
+          "id": "1hlqTYwFDPZoHL5B2qvpOym7oFxy4p-ZM"
+        },
+        {
+          "title": "Episode 09 – Der König, Der Prinz und der Schatten",
+          "id": "1WDVn7mtFgMKuRTG7IopdxdIRDYLkSQac"
+        },
+        {
+          "title": "Episode 10 – Das neu entfachte Feuer",
+          "id": "14OLyzeQ_XKXqPJAjbftZWkLaOnRN5otX"
+        },
+        {
+          "title": "Special 03 – This Imperfect World (English)",
+          "id": "1suiTnYw1Az_YGAHwp29XO1WG9h_H-l8N"
+        }
+      ],
+      "4": [
+        {
+          "title": "Episode 01 – Familiar Tales (English)",
+          "id": "1NLZd6t9dEh_fPa_HBNLjmpD2YKj6-Ido"
+        },
+        {
+          "title": "Episode 02 – New Adventures (English)",
+          "id": "1J53TxDfL4SLQQ6j2eWdga2dps-DYwJcj"
+        },
+        {
+          "title": "Episode 03 – The Great Tang Man (English)",
+          "id": "1n2W4HHeWupwgN62bMSXhtaM5toAl_Zit"
+        },
+        {
+          "title": "Episode 04 – Pig-Napped! (English)",
+          "id": "19MiknVMK4EL5xx-ROgjDnfYpBRU491OH"
+        },
+        {
+          "title": "Episode 05 – Court of the Yellow Robed Demon (English)",
+          "id": "1hZl7-LxikH5vLcvyP0cQDsG0PiBIiTTb"
+        },
+        {
+          "title": "Episode 06 – Show Me the Monster (English)",
+          "id": "1hs7SOPYgB24DZQQstfdOTjvuqmCL1KL0"
+        },
+        {
+          "title": "Episode 07 – Pitful Creatures (English)",
+          "id": "13IneG9rLDSnH9LMCVPM1GIWSUIQKPrZt"
+        },
+        {
+          "title": "Episode 08 – The Brotherhood (English)",
+          "id": "10EssIXuE5Fjpk0MD2Dd3aQwoihZbK50D"
+        },
+        {
+          "title": "Episode 09 – Roast of the Monkie Kids (English)",
+          "id": "1Bonp-IUfCIaPGxoGfDz4GFJUOmquhyic"
+        },
+        {
+          "title": "Episode 10 – The Jade Emperor (English)",
+          "id": "1vqKBfKqdZlRm9VNjHEizRXMkILN3t0zl"
+        },
+        {
+          "title": "Special 04 – The Emperor's Wrath (English)",
+          "id": "14ucvREGgEUNd0s_4isR4sRK8KrJuZ6PM"
+        }
+      ],
+      "5": [
+        {
+          "title": "Episode 01 – Stings That Bind (English)",
+          "id": "1gxW0_57jhMefj_SuK3KzkPpjYD47dzCR"
+        },
+        {
+          "title": "Episode 02 – Collar the King (English)",
+          "id": "1Y9RFblL_rHWT9Pu4PndRZctGd1oBP_Ij"
+        },
+        {
+          "title": "Episode 03 – Temple of the Goddess (English)",
+          "id": "11VQQwJdlOYYQtpeoT9K3qi2Jg_FCZ2pr"
+        },
+        {
+          "title": "Episode 04 – The Storm Within (English)",
+          "id": "1xSRApVZwZ6FDY8X3jDJQioRH-_Q4xeKe"
+        },
+        {
+          "title": "Episode 05 – Claim to Flame (English)",
+          "id": "1m7C3gO0aB-14vEG2kDENfDrmzI61W49s"
+        },
+        {
+          "title": "Episode 06 – Festival Flugitives (English)",
+          "id": "1UPdPbnwU4H3w9EExauhBlQVjeWVWdcnV"
+        },
+        {
+          "title": "Episode 07 – Into the Pagoda (English)",
+          "id": "1ARTVI7pAmVYDHU2QmTplw-UA0qBELJzq"
+        },
+        {
+          "title": "Episode 08 – The Cage (English)",
+          "id": "14dvBu7MQTDDzDItg9n_ul3uLkoX1Myn9"
+        },
+        {
+          "title": "Episode 09 – Sacrifice (English)",
+          "id": "1ZHmWL5hko2QqyrlxDYuVduFNhsxLpdZw"
+        },
+        {
+          "title": "Episode 10 – Harbringer (English)",
+          "id": "1JHtN4V9Ryyy_NvY_zYO-fM8I6kAjs2S9"
+        }
+      ]
+    }
+  },
+  "serie4": {
+    "name": "Regular Show",
+    "staffeln": {
+      "1": [
+        {
+          "title": "Episode 01 – The Power",
+          "id": "1THedfIzzK334h4dWjbovN3JDuR_Wpqy-"
+        },
+        {
+          "title": "Episode 02 – Just Set Up the Chairs",
+          "id": "1vwC8O0J1Tvtk4WUCfSrqEJIpBSCC7gzi"
+        },
+        {
+          "title": "Episode 03 – Caffeinated Concert Tickets",
+          "id": "1rfm4VkX22jbG7bXS1npgi_3Hv__MJQ3x"
+        },
+        {
+          "title": "Episode 04 – Death Punchies",
+          "id": "107R6Bcu1Q66yB0L1LzbdofVEwW1dVXH6"
+        },
+        {
+          "title": "Episode 05 – Free Cake",
+          "id": "139qouI-YGgy2IqEAp28wQLVxOPafPNf2"
+        },
+        {
+          "title": "Episode 06 – Meat Your Maker",
+          "id": "1VXB4h8LyZnfTvXJfzmbgA2cFEM03G_7P"
+        },
+        {
+          "title": "Episode 07 – Grilled Cheese Deluxe",
+          "id": "1tmNTqg8fYjUYSQgwgezDC7J2N-zGtHKB"
+        },
+        {
+          "title": "Episode 08 – The Unicorns Have Got to Go",
+          "id": "1GQyJc3sueMGG_CTtYgQ9ZiI1-rt8Brz-"
+        },
+        {
+          "title": "Episode 09 – Prank Callers",
+          "id": "1BGghG446wYIVHHrA-Cy_fkdU1yxh1sW0"
+        },
+        {
+          "title": "Episode 10 – Don",
+          "id": "1DM9fpYtAxUlzTCkwTo2GQiQQ2ugOk4p-"
+        },
+        {
+          "title": "Episode 11 – Rigby's Body",
+          "id": "17XLQbfb_Ron4jICvDzf6svMWx0yapOQU"
+        },
+        {
+          "title": "Episode 12 – Mordecai and the Rigbys",
+          "id": "1M1Is239Rbw7OPo1rBqKiX_mNezsWua7T"
+        }
+      ]
+    }
+  },
+  "serie5": {
+    "name": "Chima",
+    "staffeln": {
+      "1": [
+        {
+          "title": "Folge 01 – Wie alles begann – Teil 1",
+          "id": "1wXankN5Fg_Ntbzt0qFJQh9r9sO80Gxw5"
+        },
+        {
+          "title": "Folge 02 – Wie alles begann – Teil 2",
+          "id": "1hmmA90pqYotCfxtfTEbUFyuU4mMvzw7b"
+        },
+        {
+          "title": "Folge 03 – Hindernisse",
+          "id": "15PU4-ZtFeg8NWWDbQINZ89eZlPKhNG9P"
+        },
+        {
+          "title": "Folge 04 – Der Ausflug",
+          "id": "1ifeGZPZpvKvqYXQAT-4E2X2g4kDq1-vu"
+        },
+        {
+          "title": "Folge 05 – Markttag",
+          "id": "1E7ahU_JvNLOgyqTciuMHg1xzlNAE6Cho"
+        },
+        {
+          "title": "Folge 06 – Das Heiligtum der Wölfe",
+          "id": "10iCxfwuBf0gN6D-rM2UQkAShOm394HML"
+        },
+        {
+          "title": "Folge 07 – Der Hundert-Jahre-Mond",
+          "id": "1PZWUssPCm5Os1FZSkLtURvz_uZEK3RLt"
+        },
+        {
+          "title": "Folge 08 – Das große Rennen",
+          "id": "1CQa4bkkX2i7yGpoBJbZ3q9y5PHEgZX-S"
+        },
+        {
+          "title": "Folge 09 – Gorillas außer Rand und Band",
+          "id": "1iBqDPztxuxTgBqIm6oTuQtlKFv-cLsvw"
+        },
+        {
+          "title": "Folge 10 – Das Renn-Chaos",
+          "id": "1j_x91xQCHzZ8cKncyaFQUS-P-UepaEI3"
+        },
+        {
+          "title": "Folge 11 – Hilfe von Shadow Wind",
+          "id": "1rFZcvBf5RzGZpzJso6NBPw5ZnAf5oOZK"
+        },
+        {
+          "title": "Folge 12 – Ungleichgewicht in Chima",
+          "id": "1Vjd9w3T5SltiSiN7k8RcNVGH8extt2sr"
+        },
+        {
+          "title": "Folge 13 – Ausgetrickst",
+          "id": "1MVPO_B7zFeLBhSjQvwlA528jLyBAKscR"
+        },
+        {
+          "title": "Folge 14 – falsche CHI",
+          "id": "1oyeFogKM0WizpnC9beGoDcBuKOaS5EeT"
+        },
+        {
+          "title": "Folge 15 – Diebische Raben ",
+          "id": "1ONuRLUE6TeVtvWytE9qABVckVD3ghymQ"
+        },
+        {
+          "title": "Folge 16 – Friedensverhandlung",
+          "id": "1oRyBob6TpgtVvn7TAHDzaSstyFdZ5gXM"
+        },
+        {
+          "title": "Folge 17 – Verstoß gegen die Regeln",
+          "id": "16N6MUQtgb3Q8ZlS5iWNsXm_ubVqqtbjr"
+        },
+        {
+          "title": "Folge 18 – Die schwarze Wolke",
+          "id": "1OEd5Xw6maJvwcQwyFOI90aucU8PpSiyN"
+        },
+        {
+          "title": "Folge 19 – Der Lebensberg von Chima",
+          "id": "10kegql9AYpNz-WtXXG24mFI_FX6enVhv"
+        },
+        {
+          "title": "Folge 20 – Für Chima!",
+          "id": "1O6r4H8vTihJKcLAnF_92aN2zt_wrbEfY"
+        }
+      ],
+      "2": [
+        {
+          "title": "Folge 01 – Ausflug ins Hinterland",
+          "id": "1AGRw2SEcb1YJz-Bo9MHRl_v1pAt_IfmF"
+        },
+        {
+          "title": "Folge 02 – Gefangen im Netz",
+          "id": "1DyNrFcw4ZCw03GQuhXEeS_xAOV5sJCPM"
+        },
+        {
+          "title": "Folge 03 – Das Geheimnis um Shadow Wind",
+          "id": "16pXKkcG529dHJxM1P5rvoVNcRWh2aKXd"
+        },
+        {
+          "title": "Folge 04 – Schlafwandelnde Bären",
+          "id": "1k6ahtEJDt13fZjhpZ6ZyZheumvMMbjey"
+        },
+        {
+          "title": "Folge 05 – Lavals Geheimnis",
+          "id": "1yOToQw-4C42mvPmPwKOo896_UrMlQKks"
+        },
+        {
+          "title": "Folge 06 – Die Befreiung des Legendären Löwen",
+          "id": "1x29-bzuP25-pPAqwr-6j-DBHPiDIJFlt"
+        }
+      ],
+      "3": [
+        {
+          "title": "Folge 01 – Feuerflügel",
+          "id": "19wOQ8Lw4-OX94-Z80sULGAkxCQPGdF5O"
+        },
+        {
+          "title": "Folge 02 – Die Jäger der Eiszeit",
+          "id": "1XAFXi2LJslEBCiGx8P0Qujt9Om1UP3be"
+        },
+        {
+          "title": "Folge 03 – Die Rückkehr der legendären Tiere",
+          "id": "1IOrXtzZ3c4JWmtRZnKNCenD0Xrpfsyl1"
+        },
+        {
+          "title": "Folge 04 – Die Feuerprobe",
+          "id": "18rIdP2UksEZ30n7XAqWRafT6k-zXKH_i"
+        },
+        {
+          "title": "Folge 05 – Der magische Hügel",
+          "id": "1Mk4NJuSa6G7324CculgwM8XPa0CAM87R"
+        },
+        {
+          "title": "Folge 06 – Babysitter für Flinx",
+          "id": "1UH0lrFaG4K-Z5d-J6K5zNgVD0UiuJC2_"
+        },
+        {
+          "title": "Folge 07 – Der kleine Feuer-Vogel",
+          "id": "1bHN-ccsU17qNH2xNa1x56NbOjy-PU6A7"
+        },
+        {
+          "title": "Folge 08 – Die Tunnelkatze",
+          "id": "19EKcmnD4xdz7_YPzIQg2BmdX0RyIN0S3"
+        },
+        {
+          "title": "Folge 09 – Königliche Angelegenheit",
+          "id": "1ox4GFff5kO5RM-2Rj8jHV3kxaVvUfl1N"
+        },
+        {
+          "title": "Folge 10 – Die Gletscher-Falle",
+          "id": "1z5lnNbwhp3wkeJR7dBYEfD3s_6F2ji1z"
+        },
+        {
+          "title": "Folge 11 – Die legendäre Chima-Karte",
+          "id": "1cTM0buOJX8YXlwsFpjKIEJU_9bvyf8TO"
+        },
+        {
+          "title": "Folge 12 – Die eisige Schlucht",
+          "id": "1uqvPlCzioZBrcaBdUEBpNE-K8w18zjJi"
+        },
+        {
+          "title": "Folge 13 – Ein Funken Hoffnung",
+          "id": "1jr51vYagHug0K6EAznS46ZuxM_z9-3Js"
+        },
+        {
+          "title": "Folge 14 – Die Feuerflügel",
+          "id": "1Hs4Hb_k83S9q5FdhEdcZfFnJE5omYDQD"
+        },
+        {
+          "title": "Folge 15 – Das Feuerflügellicht",
+          "id": "1dS1E3BwPMA5irKNu8nZtQWKyvTR5WA5G"
+        }
+      ]
+    }
+  },
+  "serie6": {
+    "name": "Nexo Knights",
+    "staffeln": {
+      "1": [
+        {
+          "title": "Folge 01 – Die Abschlussfeier",
+          "id": "19OfPmtWjpxbUuCrQW4-_gvj4MM_VZBBo"
+        },
+        {
+          "title": "Folge 02 – Der verschwundene Zauberer",
+          "id": "18JWfPK7aZqNHpTRm25BUKn2VTWgqVOOe"
+        },
+        {
+          "title": "Folge 03 – Die vereinten Ritter!",
+          "id": "1ztapiIwFFlwsEl6rlZuZPsF8Wg2GM_IE"
+        },
+        {
+          "title": "Folge 04 – Der Ritter-Kodex",
+          "id": "1_NhAnnN7vvecm0Pel6oqcOnPPOEofUUs"
+        },
+        {
+          "title": "Folge 05 – Jeder hat mal Angst",
+          "id": "1wdchrEr_3qGMvRZNbnkqTD6-DgPOjhv7"
+        },
+        {
+          "title": "Folge 06 – Filmstar",
+          "id": "1E7_Ix0qnO3PtCYD_qvxczmX_PHc0UciV"
+        },
+        {
+          "title": "Folge 07 – Das Labyrinth der Täuschungen",
+          "id": "14OAJvTvmtAnTWTf-8Sp1YTeloxwQVlqX"
+        },
+        {
+          "title": "Folge 08 – Der Schwarze Ritter",
+          "id": "1bULR_v_Qy7Yk9BFs2TTehzNcq8SRm8Au"
+        },
+        {
+          "title": "Folge 09 – Jestros listiger Plan",
+          "id": "1Onmqs1i0q4xXJx54SqkXEt2OPeJiwbY7"
+        },
+        {
+          "title": "Folge 10 – Die Königsburg in Gefahr",
+          "id": "1mjvVbTU_K7BRQjkcqMh5wPEWzNvoQ0YF"
+        }
+      ],
+      "2": [
+        {
+          "title": "Folge 01 – Zurück in die Schule",
+          "id": "1hPTnI9SgdTvRSwoJBtxOi343zBt6pbYK"
+        },
+        {
+          "title": "Folge 02 – Gold und Gier",
+          "id": "1P-V3N_CLToj9gg98vNqE5cLH2xbPxGz7"
+        },
+        {
+          "title": "Folge 03 – Das Comic-Heft",
+          "id": "1hpKtUI6kBRccSVRX1hJcqIpV7VEnS2Vt"
+        },
+        {
+          "title": "Folge 04 – Das königliche Geburtstags-Turnier",
+          "id": "1_trS0mJFE23c5e3I-1WuZN7i9SbHwY49"
+        },
+        {
+          "title": "Folge 05 – Monstermässig scharfes Chilli",
+          "id": "1tmUq21bmV9J8jd7nuEfOL9gCr70xln0I"
+        },
+        {
+          "title": "Folge 06 – Ein Urlaub für Clay",
+          "id": "1IZW88bO79k1echdL-xSsPMd1Q5GBP-B8"
+        },
+        {
+          "title": "Folge 07 – Willkommen in Schniefhausen",
+          "id": "1SlVK9gmpK80JkgCeoV2zplsHEA-vUjHF"
+        },
+        {
+          "title": "Folge 08 – Jestros großer Auftritt",
+          "id": "18q7RLx-4tn0-xEuouqITWyw_TdT5dXDA"
+        },
+        {
+          "title": "Folge 09 – Das letzte magische Buch",
+          "id": "1BFUUwl2VBIreU2hh4bWmf0J5QLRqsl_M"
+        },
+        {
+          "title": "Folge 10 – Eine böse Show",
+          "id": "1pRm_vvNlqnpVMFMpNsXzHPhDkVzBfc-s"
+        }
+      ],
+      "3": [
+        {
+          "title": "Folge 01 – Die Wolke",
+          "id": "1HjKLid8D24EyZx0WmN5xIvBYHOq_khb6"
+        },
+        {
+          "title": "Folge 02 – Ganz schön rostig!",
+          "id": "1_fAqzuliiK0SwwHD5dbRI2K9JKoZ_2O6"
+        },
+        {
+          "title": "Folge 03 – Die Verbotenen Kräfte",
+          "id": "1oyYZZGH5BnCNFdB30Gj0ttBRwPARQHdf"
+        },
+        {
+          "title": "Folge 04 – Ein fauler Zauber",
+          "id": "1_z6EBVnU78PjIH8cLkZdKuIDG5q7Kk6u"
+        },
+        {
+          "title": "Folge 05 – Ärger im Steinwald",
+          "id": "1xNkYc7wOL1QSUtx2wRMGHqaHAecRi5AG"
+        },
+        {
+          "title": "Folge 06 – Die drei Brüder",
+          "id": "1wOiRT8XbaVeRS-WmbpG8LxhyJELr1yYs"
+        },
+        {
+          "title": "Folge 07 – Monster im Museum",
+          "id": "1xsxrqzcpq44gIbKnc86c0f12ZJE8ZciM"
+        },
+        {
+          "title": "Folge 08 – Gute Monster, Böse Monster",
+          "id": "1WQO0rc5AGkpxM1QFTXoHPxRqbnWrwNez"
+        },
+        {
+          "title": "Folge 09 – Die Entführung der Königin",
+          "id": "1Uyz3T0BtDH3MJapn0jPFE3zA5PpFYrjQ"
+        },
+        {
+          "title": "Folge 10 – Der neue Anführer",
+          "id": "1DALxUJslsjh1wIaTeaiBYe8wCuuuQlSw"
+        }
+      ],
+      "4": [
+        {
+          "title": "Folge 01 – Der Schulausflug",
+          "id": "1e4rdv6BpLDBDX_hOmCbOW5rPwVl8h5z8"
+        },
+        {
+          "title": "Folge 02 – Der Graue Ritter",
+          "id": "15qHVQf0klxmZZ_Qzzl8Oy8tzJ-65_Aik"
+        },
+        {
+          "title": "Folge 03 – Halunken Clay",
+          "id": "19gJpCbd3hS-_UuiJhz_8-BgMytGzvVS-"
+        },
+        {
+          "title": "Folge 04 – In geheimer Mission",
+          "id": "1r7F58PYBkiBNzQsPJ1k23ksAmLh9uFU-"
+        },
+        {
+          "title": "Folge 05 – Der Fremde aus den Bergen",
+          "id": "14leSAE1etmMNYfV-Hq6TYpo-SqpUp9i_"
+        },
+        {
+          "title": "Folge 06 – Herzog Krakenkopf",
+          "id": "1AopKWi1CllC2xn-R1pIzlo4nDLsCAL1U"
+        },
+        {
+          "title": "Folge 07 – Clays große Wut",
+          "id": "1CygiErEIwq-WuordtY7hQ0o7yV_eQiro"
+        },
+        {
+          "title": "Folge 08 – Der Steinkoloss",
+          "id": "1eTDoePMylkaeyMUVM3QTq0GGH30qqpfR"
+        },
+        {
+          "title": "Folge 09 – Eine kolossale Gefahr",
+          "id": "15iR3iq7N57wfcd8IWhzLIqXIVwXSaTLR"
+        },
+        {
+          "title": "Folge 10 – Der Fall",
+          "id": "1FHgjxvolbWpsQXZItLefx9inCJI7M1BM"
+        }
+      ]
+    }
+  },
+  "serie7": {
+    "name": "Jade Armor",
+    "staffeln": {
+      "1": [
+        {
+          "title": "Folge 01 - Das Geschenk",
+          "id": "1jV0STZ9ZmmRmBJqy0_X1XC2k-r729oro"
+        },
+        {
+          "title": "Folge 02 - Das Chaos",
+          "id": "1iZ8YW1PHyIsvOnLzWcZUi0Tks7TS6f1F"
+        },
+        {
+          "title": "Folge 03 - Das Gespräch",
+          "id": "1qIY_DtR9GVl94DFOGqf7hR91U6o2KiBg"
+        },
+        {
+          "title": "Folge 04 - Die böse Doppelgängerin",
+          "id": "1No53sSjIfYa1WzZjlX-LgfGvXTHPBKbM"
+        },
+        {
+          "title": "Folge 05 - Wildes Ban Tang",
+          "id": "1VPNpz4TbDHmk8jBc7OWbX4eWPVFpgyRn"
+        },
+        {
+          "title": "Folge 06 - Die Würfel sind gefallen",
+          "id": "1uwtFvm3VylUnaeBdPfe1Q0I5svgwXO38"
+        },
+        {
+          "title": "Folge 07 - Marionetten",
+          "id": "1rwm8tXlxJvd1wxESr0AnU4pUmvXS5TQE"
+        },
+        {
+          "title": "Folge 08 - Vergeben und Vergessen",
+          "id": "1AgyjARDnRsAt2Z5Cr7L6-4s7-nIDHhS1"
+        },
+        {
+          "title": "Folge 09 - Sag kein Wort!",
+          "id": "1KYReWCH7L5Y8VuKHDtuQ3BDFPrefxUC0"
+        },
+        {
+          "title": "Folge 10 - Xinyan der Große",
+          "id": "1SodGPRwy6N7Tlr-onv1F0h8XIu5J9f8h"
+        },
+        {
+          "title": "Folge 11 - Kais dunkle Seite",
+          "id": "1XlyCP_L-iB7EGENnbc2w-6fnbo3fUkz"
+        },
+        {
+          "title": "Folge 12 - Das Körpertausch-Chaos",
+          "id": "1k-EhitQMtcpqltw-fcGU0NPtQfqVVIeR"
+        },
+        {
+          "title": "Folge 13 - Das funfte Beasticon?",
+          "id": "1u20TGeB9LkoK3KBkrGFU_HFqiV3JN2Hu"
+        },
+        {
+          "title": "Folge 14 - Der Fantasie-Schlüssel",
+          "id": "1xlOJ61h9kMTz3_OXM3b-rATx_tyUvAf9"
+        },
+        {
+          "title": "Folge 15 - Das Parfüm",
+          "id": "1Ot5gnVGgAMGlxfvDIO5L_QHuqTFzrKS3"
+        },
+        {
+          "title": "Folge 16 - Alle lieben Jade",
+          "id": "1hRZrR4zag4IpDgc-OQ0oKbCevEvXLWd8"
+        },
+        {
+          "title": "Folge 17 - Der Beastibot",
+          "id": "18-aI4coxFS9pYvBt6wP_UtlOUHzbGaF3"
+        },
+        {
+          "title": "Folge 18 - Der Granatapfel",
+          "id": "1jhRHDJ1S6fwq9Eg7sd0KhqGPblW1ZpA5"
+        },
+        {
+          "title": "Folge 19 - Der Grüne Blitz",
+          "id": "1xMen0IVosgs7Plte9s675aRbh9vSXefH"
+        },
+        {
+          "title": "Folge 20 - Der Faden",
+          "id": "1Lcls_BY9bgMXJ933Ve3nTK2LqNHhP9WN"
+        },
+        {
+          "title": "Folge 21 - Der Filter",
+          "id": "1-4gdke32uWi7ytCwjsAGcLPSygsPzp9-"
+        },
+        {
+          "title": "Folge 22 - Filmchaos in Ban Tang",
+          "id": "1l7VfXD7c5RiMlFXKBe66c_EGTT-cGQxd"
+        },
+        {
+          "title": "Folge 23 - Durch die rosarote Brille",
+          "id": "15G2Hamhn71M8M6uPYZmJ7sH5eQT6ScGn"
+        },
+        {
+          "title": "Folge 24 - Die Zauberkugel",
+          "id": "1jnnbS0Q6DAkqfqegoL-BXoaviMUav-Gn"
+        },
+        {
+          "title": "Folge 25 - Die Mondfinsternis",
+          "id": "1TsEIBykKzGt1MaoeH4Tcz9QYyx7vEAuA"
+        },
+        {
+          "title": "Folge 26 - Für immer Jade",
+          "id": "1qQlyuxmGQ7kyva1ECPaSH6ES-WiAvfKf"
+        }
+      ],
+      "2": [
+        {
+          "title": "Folge 01 - Alles auf Anfang",
+          "id": "1vz3jZj_l7tPEP8JC_vxlwcMMvOXnYB7E"
+        },
+        {
+          "title": "Folge 02 - Eine klebrige Angelegenheit",
+          "id": "1HHgpPz4ml1KoGy4wgP1Lm3MSqL2Xx1D-"
+        },
+        {
+          "title": "Folge 03 - Postkarte mit Folgen",
+          "id": "1V-NouDlRHqkJLOBPxOKrgZTpKKRRXKKD"
+        },
+        {
+          "title": "Folge 04 - Armor of Darkness",
+          "id": "1Tg5l1eXrr2DnWq5RktDQjEr5inCsWHAP"
+        },
+        {
+          "title": "Folge 05 - Die Langlebigkeitsnudeln",
+          "id": "1scVFq8F7RVWejtPB90OGTBbxb1-tWJoe"
+        },
+        {
+          "title": "Folge 06 - Splitter-Drama",
+          "id": "1yp3LW9g2hL5tQ7O1JkgvBEjy4JDLjQzq"
+        },
+        {
+          "title": "Folge 07 - Ein gigantischer Kampf",
+          "id": "1WaBmIhLPph5FZzMbJwB5dzAkJ4T2u8g7"
+        },
+        {
+          "title": "Folge 08 - Zu viele Jades",
+          "id": "1kGPi9J7DHG1e07JurRMcYecAFCXOcKw9"
+        },
+        {
+          "title": "Folge 09 - Die Diagnose",
+          "id": "1yyUgidO2JEmcPbULrlNdd_o0wZkM2flp"
+        },
+        {
+          "title": "Folge 10 - Mein Freund, die Bestie",
+          "id": "1IZfdKVeMBXroS_4twnje6npiiFTgZKFs"
+        },
+        {
+          "title": "Folge 11 - Die Auktion",
+          "id": "1nWtCoO8McD6CFehqEoAeLhc6pvLQ-WfO"
+        },
+        {
+          "title": "Folge 12 - Eine clevere Füchsin",
+          "id": "15mcCv8MS6_L3rSjDMjhKAD0A-auFThqe"
+        },
+        {
+          "title": "Folge 13 - Jade-Alarm",
+          "id": "1PvCQ1WDgGQ6g2Z0SxfZuA8gRTjvY96bo"
+        }
+      ]
+    }
+  },
+  "serie8": {
+    "name": "The Way Out",
+    "staffeln": {
+      "1": [
+        {
+          "title": "F01 · Märchenwald",
+          "id": "1EGo7ifNfmNuWW6eAMolwBAvEdFLhR_CY"
+        },
+        {
+          "title": "F02 · Spooky Kirmes",
+          "id": "1qbS0n9DNRfb3LHZHDa6qrPZTiI7PCu59"
+        },
+        {
+          "title": "F03 · Las Vegas",
+          "id": "1GukHopfGHqoSDw9QfwmNoQXdwVal_Spm"
+        },
+        {
+          "title": "F04 · Finale: Weltenrettung",
+          "id": "1gHo1JkoELNfk7wq_sVBLuSN5clOYBSF2"
+        }
+      ]
+    }
+  },
+  "serie9": {
+    "name": "Novelmore",
+    "staffeln": {
+      "1": [
+        {
+          "title": "Folge 01 - Erfinder, Prinz, Ritterin, Spion",
+          "id": "1KYYPjPTtI8TfkCU7zNItKUs7iIagoInW"
+        },
+        {
+          "title": "Folge 02 - Erfinder, Prinz, Ritterin, noch mehr Spione",
+          "id": "19pheOMt6kChnFktkefT5s-MayKPkZZF1"
+        },
+        {
+          "title": "Folge 03 - Die Calderianische Pfeffer-Party",
+          "id": "1OJhwSDJkgJRsJDmGNqA0dl95_0DjtWjG"
+        },
+        {
+          "title": "Folge 04 - Heiße Zeiten in der Altstadt",
+          "id": "1ovtIKokuP6MyWVwu2poLkCLnk0pzXRA4"
+        },
+        {
+          "title": "Folge 05 - Die Busenfreunde",
+          "id": "1jquQ77bHLPlO-we5DcDhZlvDfOgWIMKg"
+        },
+        {
+          "title": "Folge 06 - Der Drachen-Flüsterer",
+          "id": "1By-1hHcrWi4SoyMuPphL1B5IPPSOCPkv"
+        },
+        {
+          "title": "Folge 07 - Verschollen in den Lava Minen",
+          "id": "1aaaUbVMO7pIRaveYKawuXf6klqaZfIf3"
+        },
+        {
+          "title": "Folge 08 - Vielleicht zu einer anderen Zeit",
+          "id": "1usPwDISrqDdQYjgd06yrUeUGa02moOnc"
+        },
+        {
+          "title": "Folge 09 - Familienbande",
+          "id": "1PoGT9aWfBJNg9NbS8XJJ5SJOGncvQdPc"
+        },
+        {
+          "title": "Folge 10 - Die Insel der Zeit",
+          "id": "1UsmfArda6jZjI0eDqZnvRPzZXMAAv3YI"
+        },
+        {
+          "title": "Folge 11 - Die Schlacht um Novelmore",
+          "id": "1X5GYad-1olroR0rElwGwMmG3-95frzSy"
+        },
+        {
+          "title": "Folge 12 - Die Invincibus enthüllt",
+          "id": "1noT9DFhcMpS3CErsjn9ZdCFIau7UYxSe"
+        },
+        {
+          "title": "Clip - Darios Zeppelin vs. Burnham Raiders Feuerschiff",
+          "id": "1EhEOwNAGZH2vthN4nf-vY1Ia9nd4JdV8"
+        }
+      ],
+      "2": [
+        {
+          "title": "Folge 01 - Und wenn sie nicht gestorben sind...?",
+          "id": "17a0iB0lQcdvI8U2n7Xi212MvYByb7u-t"
+        },
+        {
+          "title": "Folge 02 - Wie steht es eigentlich um Brody Burnham?",
+          "id": "1NS9z2kmKmp4hZbiEfFjFH9ehmGrXWNFz"
+        },
+        {
+          "title": "Folge 03 - NovelForce",
+          "id": "1uR7AjiOHnvOErO1iR3gQ3F8x_k-cW1Ka"
+        },
+        {
+          "title": "Folge 04 - Wie man einen Dario fängt",
+          "id": "1fp3eX85Y46qPDpau2IqGy4KL-7XimU_l"
+        },
+        {
+          "title": "Folge 05 - Um den Finger gewickelt",
+          "id": "1QQhtshPolw5UDs2aZPGBO_egh2WJQxv5"
+        },
+        {
+          "title": "Folge 06 - Der Ehren-Raider",
+          "id": "18VyO_3aIic-VCjZVmViw8dGZpGJ3A3h_"
+        },
+        {
+          "title": "Folge 07 - Der Gefangene",
+          "id": "1ym4XUJssU26GCqXvcC1CjuARxKaCXx1S"
+        },
+        {
+          "title": "Folge 08 - Ungewöhnliche Gäste in Novelmore",
+          "id": "16QaaND_4c7vo_dhNukTQBsbOWj5ZLetD"
+        },
+        {
+          "title": "Folge 09 - Tag der Wölfe",
+          "id": "1e-MBRwrP6lMFiupnHNK49K2ZJsFL9iBm"
+        },
+        {
+          "title": "Folge 10 - Die Novelmore Raiders",
+          "id": "1Ocw3thAR-lA9uOpaVzG1ztizw7brfppu"
+        },
+        {
+          "title": "Folge 11 - Risse in der Rüstung",
+          "id": "1-BpVo48q7IKZUc9iBfPWXnzunHyN6RUA"
+        },
+        {
+          "title": "Folge 12 - Das letzte Teil",
+          "id": "183T6k_a4hwdtP72AbcBcWaYaZhdFPDnd"
+        },
+        {
+          "title": "Folge 13 - Kampf um Crimson Caldera",
+          "id": "1C-oeFSNpZYM3X6OyMxCNx8x8wM2PGsxI"
+        },
+        {
+          "title": "Folge 14 - Willkommen in Violet Vale",
+          "id": "1XpsKq5mS9mrf5Ceo08QZF4A-27qsIA_N"
+        },
+        {
+          "title": "Clip - Tempel der Skelettarmee",
+          "id": "1EmoX4n1QdTNIUA99HWFOTqMBXi2m9feQ"
+        }
+      ]
+    }
+  },
+  "serie10": {
+    "name": "Adventures of Ayuma",
+    "staffeln": {
+      "1": [
+        {
+          "title": "Adventures od Ayuma Folge 01",
+          "id": "1raWLYX8vWFmrD8MesIXRaPJl4ITAl7Af"
+        },
+        {
+          "title": "Adventures od Ayuma Folge 02",
+          "id": "1xqIQtivcVLrspFQg0QtVdPO6rNrICCwS"
+        },
+        {
+          "title": "Adventures od Ayuma Folge 03",
+          "id": "1oS6qXRsiF3eV-pe2tpLwr2B1A9CZl50w"
+        },
+        {
+          "title": "Adventures od Ayuma Folge 04",
+          "id": "1OQxLHdNgPLkZJYyUxndwPg0YS7MUPO_S"
+        },
+        {
+          "title": "Adventures od Ayuma Folge 05",
+          "id": "1eOCFbqmsYiOWurf0r9m1_JiMA26Z7ssE"
+        },
+        {
+          "title": "Adventures od Ayuma Folge 06",
+          "id": "1z1u-zh5t7jw-nsvVZ8IXn1SR7WCzxfba"
+        },
+        {
+          "title": "Adventures od Ayuma Folge 07",
+          "id": "1pL53pq1aST0NN7VJfNGXOA31SR0o2X4C"
+        },
+        {
+          "title": "Adventures od Ayuma Folge 08",
+          "id": "18JQ6R-uk6uzjtGMZRe20lnjiBbryj-SD"
+        },
+        {
+          "title": "Adventures od Ayuma Folge 09",
+          "id": "1ZsExPWcmqRqPife_JOr_U_wFTZ8SDicr"
+        },
+        {
+          "title": "Adventures od Ayuma Folge 10",
+          "id": "1PNLD16xVaSuLnrUzYmgXiDBH1Onn8kv-"
+        },
+        {
+          "title": "Adventures od Ayuma Folge 11",
+          "id": "1CVOTtaotmAkM2rOBJRBnb4vto67VSGeb"
+        },
+        {
+          "title": "Special - Adventures of Ayuma",
+          "id": "11GLGB6Ou8TkAnLv2zopSqY1KiTDLEwQW"
+        }
+      ]
+    }
+  },
+  "serie11": {
+    "name": "Super4",
+    "staffeln": {
+      "1.01": [
+        {
+          "title": "Auf ins Abenteuer (1)",
+          "id": "1FGqzc3-7S0Ykg4m9eY1DWHidszRItRg6"
+        },
+        {
+          "title": "Auf ins Abenteuer (2)",
+          "id": "1HbBLNp4bL-1vLEhUsEXG9NzLt-C_JDtb"
+        },
+        {
+          "title": "Auf ins Abenteuer (3)",
+          "id": "19LA-HD95Sa_AQjt4ow9dJ8zC3bDWmIKI"
+        },
+        {
+          "title": "Auf ins Abenteuer (4)",
+          "id": "1nvP_hh_c4_ov6r-FLNnC8ESLwGsBiy50"
+        }
+      ],
+      "1.02": [
+        {
+          "title": "Ruby, Königin der Meere (1)",
+          "id": "1k26ur8THLe2ZR2KIoUjePMt4P2a9-_dP"
+        },
+        {
+          "title": "Ruby, Königin der Meere (2)",
+          "id": "1jzTqSLW7J16FHtCuY8-8MGK3eTIKhsEn"
+        },
+        {
+          "title": "Ruby, Königin der Meere (3)",
+          "id": "1dNfrtXpFLa1ql_iSCkAnUQuhO1bqwgPn"
+        },
+        {
+          "title": "Ruby, Königin der Meere (4)",
+          "id": "1pVvTp2Vk0rrn-r8ma7ZFUVRNkBiYWNag"
+        }
+      ],
+      "1.03": [
+        {
+          "title": "Agent Gene – Entdecker der Welten (1)",
+          "id": "1Igy5lW5QvtQiU6MWjW7bLU0FHEM8g1iF"
+        },
+        {
+          "title": "Agent Gene – Entdecker der Welten (2)",
+          "id": "15S-fIOS84XkX7iytgbPCug8U_U7p14yn"
+        },
+        {
+          "title": "Agent Gene – Entdecker der Welten (3)",
+          "id": "1yoPNvBkbu0e8dmtiDuniKpIdGU2BOZSh"
+        },
+        {
+          "title": "Agent Gene – Entdecker der Welten (4)",
+          "id": "1FmHsS6Qn6gc684SiYsIIzDg4w14lpLdN"
+        }
+      ],
+      "1.04": [
+        {
+          "title": "Vorsicht! Putztag!",
+          "id": "1uBqXtZUcOdPMA2-pvH6lIE7ff__Sbgvw"
+        },
+        {
+          "title": "Angriff der Feuerdrachen",
+          "id": "1I9EN6MHtrdavJmwUMCt4KZRHimBV7DgS"
+        },
+        {
+          "title": "Der König bin ich!",
+          "id": "1WW5niafEQh2kMlEf6Oh1d9yQ8qrxDJEN"
+        },
+        {
+          "title": "Der geheime Safe des Dr. X",
+          "id": "1O3Rr5vIqg6iVbrHMeGJOm7ULEpOZ5Ous"
+        },
+        {
+          "title": "Mindnet, der Super-Computer",
+          "id": "1IWN4G1nBuib8WKSiul3Bg6-gTdjpUtva"
+        }
+      ],
+      "1.05": [
+        {
+          "title": "Verliebt in den Schwarzen Baron",
+          "id": "1k3eFDF3U7MmyjVe1TpGjeDsBg1nEChiL"
+        },
+        {
+          "title": "Der große Gonk",
+          "id": "1MdoZsyhCK2FwrmixQ1haSEYrKFQMFj8m"
+        },
+        {
+          "title": "Dein Wunsch sei mir Befehl!",
+          "id": "1yaZ_PLS7_zg_r6ZEQhzrA3J-_x1vRF-e"
+        },
+        {
+          "title": "Das Drachenbaby",
+          "id": "1UCPiwYrlo5AAkFIefZ0i8ubpvMCHyYkj"
+        },
+        {
+          "title": "Böse Doppelgänger",
+          "id": "18zdJ_NmlXEYLeuAgeqXxoGYoUf-UAyaj"
+        }
+      ],
+      "1.06": [
+        {
+          "title": "Wo ist Leonora?",
+          "id": "1GhZvXAM1AMMu4trxkM_ZhrlXXWRehUHd"
+        },
+        {
+          "title": "Der Zauberwettbewerb",
+          "id": "16Q4sX4VR0vEqXqUPYtGUNcOJShGYNE1L"
+        },
+        {
+          "title": "Gefährliche Schatzjagd",
+          "id": "1CygFexyi0t3t3jv8VFz_YNRI_LjPRpK9"
+        },
+        {
+          "title": "Eine kolossale Herausforderung",
+          "id": "1A80j0zk43_ut7pqcFFzsGdeGiUdj3NF6"
+        },
+        {
+          "title": "Eine Frage der Zeit",
+          "id": "1ng-UWHefG5cX_b5E__F9AP76SQj3AxOu"
+        }
+      ],
+      "1.07": [
+        {
+          "title": "Nebel über Ritterland",
+          "id": "1CnPagvXell8A5bCU-Pm-4QGJutIy5xK9"
+        },
+        {
+          "title": "Fee Lix und Fee Bruar",
+          "id": "1D-pIg0Vcwzo571GPYmGM8TNGPDTAAqWL"
+        },
+        {
+          "title": "Alarmstufe Rosa!",
+          "id": "1K7QhiYORuaX4dcAKQlVjnEOXm7v2hzDC"
+        },
+        {
+          "title": "Schwarzmalerei",
+          "id": "1zTFf9ohM1XeTx8SawvZ9VOOxWlVrJ0sC"
+        },
+        {
+          "title": "Das Geheimnis der goldenen Karotte",
+          "id": "1INbwoFuG3VuMkbvVPMuzrW4I8IJcwHpy"
+        }
+      ],
+      "1.08": [
+        {
+          "title": "Kalt wie Stein",
+          "id": "1BBMjnSEFI8t9CGLSQuOUITCKXCbYnWYZ"
+        },
+        {
+          "title": "Die Prophezeiung",
+          "id": "1a1lXj3fMP78xkfMm2Ix2qcr3nV3t3eBq"
+        },
+        {
+          "title": "In den Fängen Baba-Caras",
+          "id": "1goxcCqHEfvM4mQmvoNC1jCRbZ3-iQwrX"
+        },
+        {
+          "title": "Das große Roboter-Rennen",
+          "id": "1H8Z7PeuUJ2gHjqNY1JkCO_cpIm_zD0I-"
+        },
+        {
+          "title": "Das Kristallschwert",
+          "id": "1weqLhj-dLa_eMlk560zeoOfja6aLqmba"
+        }
+      ],
+      "1.09": [
+        {
+          "title": "Der Liebesfluch",
+          "id": "1t2C9dvFZVVOciF99iON7yMBzkK_zecU8"
+        },
+        {
+          "title": "Piratenehre",
+          "id": "1W6fJpICYqALJWN3_7JjzDGvMbAKgCCU7"
+        },
+        {
+          "title": "Grimmagus’ listiger Plan",
+          "id": "1UD_lIUtgXYJ0t0Eb9J2EKbBfSRGl1m6Y"
+        },
+        {
+          "title": "Piraten in ritterlicher Mission",
+          "id": "1WYJ4vy9WFGLEmLDeDassLaKCJ7ufiZop"
+        },
+        {
+          "title": "Gold! Gold! Gold!",
+          "id": "1mzfo0H0euA9gthPjxhe3SYpyGCtyGQKK"
+        }
+      ],
+      "1.1": [
+        {
+          "title": "Küssen verboten!",
+          "id": "1zrqO1DV7S6LVC8fwDqllfJH0lym61eJz"
+        },
+        {
+          "title": "Spuk auf der Burg",
+          "id": "1jEoDT9Q3fyPtiOFTLdOOrWhqJDgp0LLn"
+        },
+        {
+          "title": "Die magischen Wandteppiche",
+          "id": "1ny_pZIKcE8miM4V0ymU0oTE6-EUUQGe0"
+        },
+        {
+          "title": "Roboter gegen Feen",
+          "id": "1DdBGJf8hfy8pcLGQs-PG3R_xLV5o__7S"
+        },
+        {
+          "title": "Schwerelos",
+          "id": "1Jy6b-f0bRj0iCnxycA0zKEG4ZO-fBZFJ"
+        }
+      ],
+      "1.11": [
+        {
+          "title": "Alex, wach auf!",
+          "id": "1yh540z3T-7FUNKliGchcM6XvZPWOWTMh"
+        },
+        {
+          "title": "Tiefstes Metallalter",
+          "id": "1gCvfG4cMcA7SNOyjRR_cbwIpaLtu2qn5"
+        },
+        {
+          "title": "Die Wut des Drachen",
+          "id": "1SETR06BoaxrN_OoFmDsQxg_YDgY3ZQnd"
+        },
+        {
+          "title": "Der Friedensvertrag",
+          "id": "1UIkkIks8hd3oLAMhWz9S8HqrTeeghL1L"
+        },
+        {
+          "title": "Der hungrige Oger",
+          "id": "19NOILnBklQ7rWw89yx406Q_XQCO0fLZ4"
+        }
+      ],
+      "2.01": [
+        {
+          "title": "Wir kommen in Frieden!",
+          "id": "1Dbo6XI1MzWSCfifJCcnyHvEFl6j8whHt"
+        },
+        {
+          "title": "Feen-Fänger",
+          "id": "1N5Ql8fETifZhXluBaiW0GBX7PIGpCh1b"
+        },
+        {
+          "title": "Die Drachenflöte",
+          "id": "1-srbLi37bZhCuGSUjnEbzAJ7seC17SyO"
+        },
+        {
+          "title": "Die Piraten-Spiele",
+          "id": "1nYKAKn1riKUMhfdDntEGaaXTrJsOp8ad"
+        },
+        {
+          "title": "Die Zaubereichen-Zeremonie",
+          "id": "1jqw_ASE6CNimhp--4Vgcc0reZK7Zql3A"
+        }
+      ],
+      "2.02": [
+        {
+          "title": "Von Drachen und Diamanten",
+          "id": "1DtqaheTkxjMD0JZuN4wsOdCBZf5issyx"
+        },
+        {
+          "title": "Gefangen im Labyrinth",
+          "id": "1pt8PwQYKeubQrmmVRYJlrJuwCPzEvx6N"
+        },
+        {
+          "title": "Ricky Rictus",
+          "id": "1lonecd1G0WlajaX3gtU0V8UTdfxJKLhw"
+        },
+        {
+          "title": "Zauberei gegen Technik",
+          "id": "1t-6N2iejC8UBorc_h3eyMg1wct1QORpF"
+        },
+        {
+          "title": "Sir Cleano",
+          "id": "1vVm8nNj-87Dc-M5eZtgrUvS9ViIYYy6U"
+        }
+      ],
+      "2.03": [
+        {
+          "title": "Lachanfall",
+          "id": "1RcdexUB6AZHz1usQk-MO2j8bzbQ13OKc"
+        },
+        {
+          "title": "Unheimlich schlau",
+          "id": "1yOJigX7XPrtMDPplr_coBEwGZm-QgQQK"
+        },
+        {
+          "title": "Verkehrte Welt",
+          "id": "1idXKLRsZd3INqBPvKoYiZWEiILDtAZzp"
+        },
+        {
+          "title": "Willkommen im Dschungel",
+          "id": "1ykK4dUYfW9sZqE9BdtcMjv3OHCSievi6"
+        },
+        {
+          "title": "Die erste Fee",
+          "id": "1Emq_-Mz3YRTX6BTdlXbvn7NWNqOy5gYu"
+        }
+      ],
+      "2.04": [
+        {
+          "title": "Super 5",
+          "id": "1zXCsXy_QsyVYmcOqw0f87Q26k9T29k5E"
+        },
+        {
+          "title": "Schatz mit Haken",
+          "id": "1pvj0QicwgnxsaL3L-Dk3UISdZvI-s4Br"
+        },
+        {
+          "title": "Eure Sondersgleichen",
+          "id": "1pg1vQy0a0zxylh8QM03Z5Zs8ctn5uQ_0"
+        },
+        {
+          "title": "Das dunkle Einhorn",
+          "id": "1LQwJuhVP9GGvGR6c-aCbuaDvEDbYCpZR"
+        },
+        {
+          "title": "Rock Brock – Ermittlungen aller Art",
+          "id": "1Hws98M5c6M_xMbiPZNsuRkmvTWisYagJ"
+        }
+      ],
+      "2.05": [
+        {
+          "title": "Fit fürs Duell",
+          "id": "12BfaHnnvYiRdkAPP-FK0pDIUtcbFPk33"
+        },
+        {
+          "title": "Die Leibwächter",
+          "id": "1xSI8Jy0ror_Bm_tuJs4459XUzueBWI4E"
+        },
+        {
+          "title": "Die Leibwächter (Deutsch)",
+          "id": "1v415BAHSUZ680SxKnZURXUkfYkO68sKh"
+        },
+        {
+          "title": "Twinkle, der Schrecken der Meere",
+          "id": "1cB8T4D7ny3o_SDGyANb44WxAGQoaGciY"
+        },
+        {
+          "title": "Fee Fantastika",
+          "id": "1tSePhA6oyDIuWyxsrP3nwJphQmqnTvql"
+        },
+        {
+          "title": "Rock Brock auf der Flucht",
+          "id": "1tUP5JkoA5AdJKMqe1LRYghs5fcRyFTD6"
+        }
+      ],
+      "2.06": [
+        {
+          "title": "Weg damit!",
+          "id": "14xCBQk1Aka8wURFIxQsZVG661Jd7yb3I"
+        },
+        {
+          "title": "Der fliegende Sharkbeard",
+          "id": "15h-VqAoTRmp-dIb5Pa5jpxoTs4fmu0dK"
+        },
+        {
+          "title": "Sykrojunior",
+          "id": "1llc9OmNicpnQWvZcituVyTBoMqcYLa99"
+        },
+        {
+          "title": "Tücken der Tanzschuh-Technik",
+          "id": "1npzA9DjqVLwWuL4jXoHIGlhOjhlBYKxI"
+        },
+        {
+          "title": "Reimschmiede",
+          "id": "1BO5Cw4vBdEKN4F9-fOCZrchMZg6CwNX1"
+        }
+      ],
+      "2.07": [
+        {
+          "title": "Jurassic Safari",
+          "id": "1PxzWVa9dOsLh1iOIOx8MMOIKOTirWyPV"
+        },
+        {
+          "title": "Graue Magie",
+          "id": "1L3_vgMcMlhLLREp0BWkkstVdz8u03jIY"
+        },
+        {
+          "title": "Thronfolgerin Ruby",
+          "id": "1epO8qDixmH6MdnPABs2zAwwU4DFWwHXm"
+        },
+        {
+          "title": "Der Hasenfänger von Ritterland",
+          "id": "1WF46oTt-ZzKpFTYeFqZo5xx902x1fO9y"
+        },
+        {
+          "title": "Voller Energie",
+          "id": "1UFJitxVq_iCRU6ebcLknXJFLmY27CPLJ"
+        }
+      ],
+      "2.08": [
+        {
+          "title": "Ein Held für jede Welt",
+          "id": "1Oz9eQmgxDo12FHsHwto0_uzSSLGS7947"
+        },
+        {
+          "title": "Das große Rennen um die Welten",
+          "id": "1SW7A4E1CdyNvH3swuUeln1zied2SwdO6"
+        },
+        {
+          "title": "Supersykronier",
+          "id": "1BBkgqeAm7dYPLFKsoXwU7KGLhrDwhLH6"
+        },
+        {
+          "title": "Die Rückkehr der Doppelgänger",
+          "id": "16lseZcvT5Bbhxt8lMyaVfWd4YjZfkmu_"
+        },
+        {
+          "title": "Wach bleiben!",
+          "id": "1XnxnyVGZv3823rAef4iu5lS1hw2nvkb_"
+        }
+      ],
+      "2.09": [
+        {
+          "title": "Keine halben Sachen",
+          "id": "1QEbJ8iFDleM-4JkTxZYngsDNvT-MeQ7q"
+        },
+        {
+          "title": "Sharkbeard ausquartiert",
+          "id": "1cgjnVCDP_ET4cGjMQe8bBLyyaojKMKuD"
+        },
+        {
+          "title": "Das Herz eines Ritters",
+          "id": "1anCUWcqZdNO7WlqL0xsXTnY6BF_L6ll7"
+        },
+        {
+          "title": "Ein unverhoffter Held",
+          "id": "1XVH9wYFzcKm9k7KZRI33FDJjpB0K5qVU"
+        },
+        {
+          "title": "Müllschlucker – heiß begehrt!",
+          "id": "1ooFio4EV5JM4vp-GcjbYtqiMKJCUiU5R"
+        }
+      ],
+      "2.1": [
+        {
+          "title": "Der Ruf der vergessenen Insel",
+          "id": "1qsAimQFHAAxtMfPw-SqratHJijVGERVD"
+        },
+        {
+          "title": "Rettet das Chamäleon!",
+          "id": "18lkjjMEt56-vMLjWWx6mRogT37SQrikQ"
+        },
+        {
+          "title": "Der Komet",
+          "id": "1o020z1KtHj0MAXn1Y--SxH440eUYNWje"
+        },
+        {
+          "title": "Das gestohlene Lachen",
+          "id": "1wlhwU3oAYHyeC_mdin3osdCVCULewNQu"
+        },
+        {
+          "title": "Technopolis hat Fieber",
+          "id": "1Utcf_2TcItDCNc-_poL_h5LDP8OCbf6-"
+        }
+      ],
+      "2.11": [
+        {
+          "title": "Die Guten, die Bösen und die Außerirdischen (1)",
+          "id": "1ka7hWxBJH9Jg1VoZyyqqSVAIEuC2jRWd"
+        },
+        {
+          "title": "Die Guten, die Bösen und die Außerirdischen (2)",
+          "id": "1yC-3Cmko0Dn439yD4EqbW6oyEf4JR4V-"
+        }
+      ]
+    }
+  },
+  "serie12": {
+    "name": "NICHT NACHMACHEN!!!",
+    "staffeln": {
+      "1": [
+        {
+          "title": "Folge 01",
+          "id": "1o2y1oC4nBx-U93gMq4xqNJiWctC9HCpB"
+        },
+        {
+          "title": "Folge 02",
+          "id": "1WDI2qo66MTQoThwGuUpzxgcXQQBI-aXU"
+        },
+        {
+          "title": "Folge 03",
+          "id": "1zILbggvs3nEUKEvV2fGtHloYsajdzj0A"
+        },
+        {
+          "title": "Folge 04",
+          "id": "1Y2C4XIXxEQrtwTt8SaVMGdr-Aatrok1e"
+        },
+        {
+          "title": "Folge 05",
+          "id": "1y3eF-PX_ckC78UCZ-hnyhUFeOODPlsh4"
+        },
+        {
+          "title": "Folge 06",
+          "id": "1iR0g79AsaFzwazHNpEzASF5OwSQeUO2f"
+        }
+      ],
+      "2": [
+        {
+          "title": "Folge 01",
+          "id": "1JjGj5AI0A7IcXwV0yk8pLMD-Nni-FfW9"
+        },
+        {
+          "title": "Folge 02",
+          "id": "1uIrFOzDYC9RShcMPlui0IZakEsAZmQxI"
+        },
+        {
+          "title": "Folge 03",
+          "id": "16in6gxjeFzCVcBMOFB8h-dZTHRjsk1jX"
+        },
+        {
+          "title": "Folge 04",
+          "id": "1Hx27kiyahDpN80J5uCJi6mwNbsLEIgGV"
+        },
+        {
+          "title": "Folge 05",
+          "id": "1Ndop5DJBnIGEwHsaHI7V4RBd668FbAC3"
+        },
+        {
+          "title": "Folge 06",
+          "id": "1Lc9kAzzoTvTJ5-bLflXKDa6Ud1w0N2hP"
+        }
+      ]
+    }
+  },
+  "serie13": {
+    "name": "Atelier of Witch Hat",
+    "staffeln": {
+      "1": [
+        {
+          "title": "Folge 01 - Die erste Magie",
+          "id": "1yZuiCWxu4ors6EMBDEOetALhgVpkJKmb"
+        },
+        {
+          "title": "Folge 02 - Die Lehrstätte im Grasland",
+          "id": "168MmVTBGPqMh4c82mfoS1nbmOhg5QZF9"
+        },
+        {
+          "title": "Folge 03 - Die Prüfung im Dada-Gebirge",
+          "id": "1ynHuBQT6dwLCRmXFowysW1wASjZTZTFd"
+        },
+        {
+          "title": "Folge 04 - Die Begegnung in Carun",
+          "id": "1GQmmKEjxn9mM3RQGhZ6vLoZV_EBZMOwX"
+        },
+        {
+          "title": "Folge 05 - Das Drachenlabyrinth",
+          "id": "1rDuc5lVZ00ZHbkXOL2Zs1raqUYYoQfeR"
+        },
+        {
+          "title": "Folge 06 - Das Licht eines Regentages",
+          "id": "1VWvLwh9Fyt9mJ0imHZ0OncRvyFouFfBA"
+        },
+        {
+          "title": "Folge 07 - Für wen ist die Magie?",
+          "id": "1rh72XlkPCyoIEybZ7_JhPNGcwNd6th-j"
+        },
+        {
+          "title": "Folge 08 - Der Verdacht der Magiehüter",
+          "id": "1YnVXZU6E5emAlgIAveeDkLeLBXZrbFdA"
+        },
+        {
+          "title": "Folge 09 - Ein Albtraum, der im Dunkel versinkt",
+          "id": "1yGU2huByzAkACWhevk2jdzbiDVY00AWn"
+        }
+      ]
+    }
+  },
+  "serie14": {
+    "name": "KPop Demon Hunters",
+    "staffeln": {
+      "1": [
+        {
+          "title": "KPoP Demon Hunters",
+          "id": "1D0GjZIRlm59AuJeQG0vFJM1qgA9hJX_C"
+        }
+      ]
+    }
+  },
+  "serie15": {
+    "name": "Pokémon",
+    "staffeln": {
+      "1": [
+        {
+          "title": "Staffel 1 - Folge 1",
+          "id": "1Tm10rcIei2OfsaSJMJSXH9eT_FR6BWfr"
+        },
+        {
+          "title": "Staffel 1 - Folge 2",
+          "id": "1eXnclyzXZq58SoyebLstDLIZiGzdXCjk"
+        },
+        {
+          "title": "Staffel 1 - Folge 3",
+          "id": "1tDf3jieSuummRnItla6XR4HusgEZOBp5"
+        },
+        {
+          "title": "Staffel 1 - Folge 4",
+          "id": "1cwdoFKisi6RsfTw8bM7WkJkfmjRQ5LCJ"
+        },
+        {
+          "title": "Staffel 1 - Folge 5",
+          "id": "1LTcNzUFvd55o3P3acYfCYGW-Wp9s1pNO"
+        },
+        {
+          "title": "Staffel 1 - Folge 6",
+          "id": "1i6whhMca5ZKtyrAxd4t7s0GjC-2ZZIbJ"
+        },
+        {
+          "title": "Staffel 1 - Folge 7",
+          "id": "1vID5V0aKu6cIrqn-xwV-K9aVt6Qyh6lI"
+        },
+        {
+          "title": "Staffel 1 - Folge 8",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E08"
+        },
+        {
+          "title": "Staffel 1 - Folge 9",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E09"
+        },
+        {
+          "title": "Staffel 1 - Folge 10",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E10"
+        },
+        {
+          "title": "Staffel 1 - Folge 11",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E11"
+        },
+        {
+          "title": "Staffel 1 - Folge 12",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E12"
+        },
+        {
+          "title": "Staffel 1 - Folge 13",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E13"
+        },
+        {
+          "title": "Staffel 1 - Folge 14",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E14"
+        },
+        {
+          "title": "Staffel 1 - Folge 15",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E15"
+        },
+        {
+          "title": "Staffel 1 - Folge 16",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E16"
+        },
+        {
+          "title": "Staffel 1 - Folge 17",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E17"
+        },
+        {
+          "title": "Staffel 1 - Folge 18",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E18"
+        },
+        {
+          "title": "Staffel 1 - Folge 19",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E19"
+        },
+        {
+          "title": "Staffel 1 - Folge 20",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E20"
+        },
+        {
+          "title": "Staffel 1 - Folge 21",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E21"
+        },
+        {
+          "title": "Staffel 1 - Folge 22",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E22"
+        },
+        {
+          "title": "Staffel 1 - Folge 23",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E23"
+        },
+        {
+          "title": "Staffel 1 - Folge 24",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E24"
+        },
+        {
+          "title": "Staffel 1 - Folge 25",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E25"
+        },
+        {
+          "title": "Staffel 1 - Folge 26",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E26"
+        },
+        {
+          "title": "Staffel 1 - Folge 27",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E27"
+        },
+        {
+          "title": "Staffel 1 - Folge 28",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E28"
+        },
+        {
+          "title": "Staffel 1 - Folge 29",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E29"
+        },
+        {
+          "title": "Staffel 1 - Folge 30",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E30"
+        },
+        {
+          "title": "Staffel 1 - Folge 31",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E31"
+        },
+        {
+          "title": "Staffel 1 - Folge 32",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E32"
+        },
+        {
+          "title": "Staffel 1 - Folge 33",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E33"
+        },
+        {
+          "title": "Staffel 1 - Folge 34",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E34"
+        },
+        {
+          "title": "Staffel 1 - Folge 35",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E35"
+        },
+        {
+          "title": "Staffel 1 - Folge 36",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E36"
+        },
+        {
+          "title": "Staffel 1 - Folge 37",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E37"
+        },
+        {
+          "title": "Staffel 1 - Folge 38",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E38"
+        },
+        {
+          "title": "Staffel 1 - Folge 39",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E39"
+        },
+        {
+          "title": "Staffel 1 - Folge 40",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E40"
+        },
+        {
+          "title": "Staffel 1 - Folge 41",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E41"
+        },
+        {
+          "title": "Staffel 1 - Folge 42",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E42"
+        },
+        {
+          "title": "Staffel 1 - Folge 43",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E43"
+        },
+        {
+          "title": "Staffel 1 - Folge 44",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E44"
+        },
+        {
+          "title": "Staffel 1 - Folge 45",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E45"
+        },
+        {
+          "title": "Staffel 1 - Folge 46",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E46"
+        },
+        {
+          "title": "Staffel 1 - Folge 47",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E47"
+        },
+        {
+          "title": "Staffel 1 - Folge 48",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E48"
+        },
+        {
+          "title": "Staffel 1 - Folge 49",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E49"
+        },
+        {
+          "title": "Staffel 1 - Folge 50",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E50"
+        },
+        {
+          "title": "Staffel 1 - Folge 51",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E51"
+        },
+        {
+          "title": "Staffel 1 - Folge 52",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E52"
+        },
+        {
+          "title": "Staffel 1 - Folge 53",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E53"
+        },
+        {
+          "title": "Staffel 1 - Folge 54",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E54"
+        },
+        {
+          "title": "Staffel 1 - Folge 55",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E55"
+        },
+        {
+          "title": "Staffel 1 - Folge 56",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E56"
+        },
+        {
+          "title": "Staffel 1 - Folge 57",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E57"
+        },
+        {
+          "title": "Staffel 1 - Folge 58",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E58"
+        },
+        {
+          "title": "Staffel 1 - Folge 59",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E59"
+        },
+        {
+          "title": "Staffel 1 - Folge 60",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E60"
+        },
+        {
+          "title": "Staffel 1 - Folge 61",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E61"
+        },
+        {
+          "title": "Staffel 1 - Folge 62",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E62"
+        },
+        {
+          "title": "Staffel 1 - Folge 63",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E63"
+        },
+        {
+          "title": "Staffel 1 - Folge 64",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E64"
+        },
+        {
+          "title": "Staffel 1 - Folge 65",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E65"
+        },
+        {
+          "title": "Staffel 1 - Folge 66",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E66"
+        },
+        {
+          "title": "Staffel 1 - Folge 67",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E67"
+        },
+        {
+          "title": "Staffel 1 - Folge 68",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E68"
+        },
+        {
+          "title": "Staffel 1 - Folge 69",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E69"
+        },
+        {
+          "title": "Staffel 1 - Folge 70",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E70"
+        },
+        {
+          "title": "Staffel 1 - Folge 71",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E71"
+        },
+        {
+          "title": "Staffel 1 - Folge 72",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E72"
+        },
+        {
+          "title": "Staffel 1 - Folge 73",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E73"
+        },
+        {
+          "title": "Staffel 1 - Folge 74",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E74"
+        },
+        {
+          "title": "Staffel 1 - Folge 75",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E75"
+        },
+        {
+          "title": "Staffel 1 - Folge 76",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E76"
+        },
+        {
+          "title": "Staffel 1 - Folge 77",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E77"
+        },
+        {
+          "title": "Staffel 1 - Folge 78",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E78"
+        },
+        {
+          "title": "Staffel 1 - Folge 79",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E79"
+        },
+        {
+          "title": "Staffel 1 - Folge 80",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E80"
+        },
+        {
+          "title": "Staffel 1 - Folge 81",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E81"
+        },
+        {
+          "title": "Staffel 1 - Folge 82",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S1E82"
+        }
+      ],
+      "2": [
+        {
+          "title": "Staffel 2 - Folge 1",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E01"
+        },
+        {
+          "title": "Staffel 2 - Folge 2",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E02"
+        },
+        {
+          "title": "Staffel 2 - Folge 3",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E03"
+        },
+        {
+          "title": "Staffel 2 - Folge 4",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E04"
+        },
+        {
+          "title": "Staffel 2 - Folge 5",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E05"
+        },
+        {
+          "title": "Staffel 2 - Folge 6",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E06"
+        },
+        {
+          "title": "Staffel 2 - Folge 7",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E07"
+        },
+        {
+          "title": "Staffel 2 - Folge 8",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E08"
+        },
+        {
+          "title": "Staffel 2 - Folge 9",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E09"
+        },
+        {
+          "title": "Staffel 2 - Folge 10",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E10"
+        },
+        {
+          "title": "Staffel 2 - Folge 11",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E11"
+        },
+        {
+          "title": "Staffel 2 - Folge 12",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E12"
+        },
+        {
+          "title": "Staffel 2 - Folge 13",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E13"
+        },
+        {
+          "title": "Staffel 2 - Folge 14",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E14"
+        },
+        {
+          "title": "Staffel 2 - Folge 15",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E15"
+        },
+        {
+          "title": "Staffel 2 - Folge 16",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E16"
+        },
+        {
+          "title": "Staffel 2 - Folge 17",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E17"
+        },
+        {
+          "title": "Staffel 2 - Folge 18",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E18"
+        },
+        {
+          "title": "Staffel 2 - Folge 19",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E19"
+        },
+        {
+          "title": "Staffel 2 - Folge 20",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E20"
+        },
+        {
+          "title": "Staffel 2 - Folge 21",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E21"
+        },
+        {
+          "title": "Staffel 2 - Folge 22",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E22"
+        },
+        {
+          "title": "Staffel 2 - Folge 23",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E23"
+        },
+        {
+          "title": "Staffel 2 - Folge 24",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E24"
+        },
+        {
+          "title": "Staffel 2 - Folge 25",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E25"
+        },
+        {
+          "title": "Staffel 2 - Folge 26",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E26"
+        },
+        {
+          "title": "Staffel 2 - Folge 27",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E27"
+        },
+        {
+          "title": "Staffel 2 - Folge 28",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E28"
+        },
+        {
+          "title": "Staffel 2 - Folge 29",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E29"
+        },
+        {
+          "title": "Staffel 2 - Folge 30",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E30"
+        },
+        {
+          "title": "Staffel 2 - Folge 31",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E31"
+        },
+        {
+          "title": "Staffel 2 - Folge 32",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E32"
+        },
+        {
+          "title": "Staffel 2 - Folge 33",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E33"
+        },
+        {
+          "title": "Staffel 2 - Folge 34",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E34"
+        },
+        {
+          "title": "Staffel 2 - Folge 35",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S2E35"
+        }
+      ],
+      "3": [
+        {
+          "title": "Staffel 3 - Folge 1",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E01"
+        },
+        {
+          "title": "Staffel 3 - Folge 2",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E02"
+        },
+        {
+          "title": "Staffel 3 - Folge 3",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E03"
+        },
+        {
+          "title": "Staffel 3 - Folge 4",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E04"
+        },
+        {
+          "title": "Staffel 3 - Folge 5",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E05"
+        },
+        {
+          "title": "Staffel 3 - Folge 6",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E06"
+        },
+        {
+          "title": "Staffel 3 - Folge 7",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E07"
+        },
+        {
+          "title": "Staffel 3 - Folge 8",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E08"
+        },
+        {
+          "title": "Staffel 3 - Folge 9",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E09"
+        },
+        {
+          "title": "Staffel 3 - Folge 10",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E10"
+        },
+        {
+          "title": "Staffel 3 - Folge 11",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E11"
+        },
+        {
+          "title": "Staffel 3 - Folge 12",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E12"
+        },
+        {
+          "title": "Staffel 3 - Folge 13",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E13"
+        },
+        {
+          "title": "Staffel 3 - Folge 14",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E14"
+        },
+        {
+          "title": "Staffel 3 - Folge 15",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E15"
+        },
+        {
+          "title": "Staffel 3 - Folge 16",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E16"
+        },
+        {
+          "title": "Staffel 3 - Folge 17",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E17"
+        },
+        {
+          "title": "Staffel 3 - Folge 18",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E18"
+        },
+        {
+          "title": "Staffel 3 - Folge 19",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E19"
+        },
+        {
+          "title": "Staffel 3 - Folge 20",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E20"
+        },
+        {
+          "title": "Staffel 3 - Folge 21",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E21"
+        },
+        {
+          "title": "Staffel 3 - Folge 22",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E22"
+        },
+        {
+          "title": "Staffel 3 - Folge 23",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E23"
+        },
+        {
+          "title": "Staffel 3 - Folge 24",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E24"
+        },
+        {
+          "title": "Staffel 3 - Folge 25",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E25"
+        },
+        {
+          "title": "Staffel 3 - Folge 26",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E26"
+        },
+        {
+          "title": "Staffel 3 - Folge 27",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E27"
+        },
+        {
+          "title": "Staffel 3 - Folge 28",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E28"
+        },
+        {
+          "title": "Staffel 3 - Folge 29",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E29"
+        },
+        {
+          "title": "Staffel 3 - Folge 30",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E30"
+        },
+        {
+          "title": "Staffel 3 - Folge 31",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E31"
+        },
+        {
+          "title": "Staffel 3 - Folge 32",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E32"
+        },
+        {
+          "title": "Staffel 3 - Folge 33",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E33"
+        },
+        {
+          "title": "Staffel 3 - Folge 34",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E34"
+        },
+        {
+          "title": "Staffel 3 - Folge 35",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E35"
+        },
+        {
+          "title": "Staffel 3 - Folge 36",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E36"
+        },
+        {
+          "title": "Staffel 3 - Folge 37",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E37"
+        },
+        {
+          "title": "Staffel 3 - Folge 38",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E38"
+        },
+        {
+          "title": "Staffel 3 - Folge 39",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E39"
+        },
+        {
+          "title": "Staffel 3 - Folge 40",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E40"
+        },
+        {
+          "title": "Staffel 3 - Folge 41",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S3E41"
+        }
+      ],
+      "4": [
+        {
+          "title": "Staffel 4 - Folge 1",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E01"
+        },
+        {
+          "title": "Staffel 4 - Folge 2",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E02"
+        },
+        {
+          "title": "Staffel 4 - Folge 3",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E03"
+        },
+        {
+          "title": "Staffel 4 - Folge 4",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E04"
+        },
+        {
+          "title": "Staffel 4 - Folge 5",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E05"
+        },
+        {
+          "title": "Staffel 4 - Folge 6",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E06"
+        },
+        {
+          "title": "Staffel 4 - Folge 7",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E07"
+        },
+        {
+          "title": "Staffel 4 - Folge 8",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E08"
+        },
+        {
+          "title": "Staffel 4 - Folge 9",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E09"
+        },
+        {
+          "title": "Staffel 4 - Folge 10",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E10"
+        },
+        {
+          "title": "Staffel 4 - Folge 11",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E11"
+        },
+        {
+          "title": "Staffel 4 - Folge 12",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E12"
+        },
+        {
+          "title": "Staffel 4 - Folge 13",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E13"
+        },
+        {
+          "title": "Staffel 4 - Folge 14",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E14"
+        },
+        {
+          "title": "Staffel 4 - Folge 15",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E15"
+        },
+        {
+          "title": "Staffel 4 - Folge 16",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E16"
+        },
+        {
+          "title": "Staffel 4 - Folge 17",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E17"
+        },
+        {
+          "title": "Staffel 4 - Folge 18",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E18"
+        },
+        {
+          "title": "Staffel 4 - Folge 19",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E19"
+        },
+        {
+          "title": "Staffel 4 - Folge 20",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E20"
+        },
+        {
+          "title": "Staffel 4 - Folge 21",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E21"
+        },
+        {
+          "title": "Staffel 4 - Folge 22",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E22"
+        },
+        {
+          "title": "Staffel 4 - Folge 23",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E23"
+        },
+        {
+          "title": "Staffel 4 - Folge 24",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E24"
+        },
+        {
+          "title": "Staffel 4 - Folge 25",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E25"
+        },
+        {
+          "title": "Staffel 4 - Folge 26",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E26"
+        },
+        {
+          "title": "Staffel 4 - Folge 27",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E27"
+        },
+        {
+          "title": "Staffel 4 - Folge 28",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E28"
+        },
+        {
+          "title": "Staffel 4 - Folge 29",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E29"
+        },
+        {
+          "title": "Staffel 4 - Folge 30",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E30"
+        },
+        {
+          "title": "Staffel 4 - Folge 31",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E31"
+        },
+        {
+          "title": "Staffel 4 - Folge 32",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E32"
+        },
+        {
+          "title": "Staffel 4 - Folge 33",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E33"
+        },
+        {
+          "title": "Staffel 4 - Folge 34",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E34"
+        },
+        {
+          "title": "Staffel 4 - Folge 35",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E35"
+        },
+        {
+          "title": "Staffel 4 - Folge 36",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E36"
+        },
+        {
+          "title": "Staffel 4 - Folge 37",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E37"
+        },
+        {
+          "title": "Staffel 4 - Folge 38",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E38"
+        },
+        {
+          "title": "Staffel 4 - Folge 39",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E39"
+        },
+        {
+          "title": "Staffel 4 - Folge 40",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E40"
+        },
+        {
+          "title": "Staffel 4 - Folge 41",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E41"
+        },
+        {
+          "title": "Staffel 4 - Folge 42",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E42"
+        },
+        {
+          "title": "Staffel 4 - Folge 43",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E43"
+        },
+        {
+          "title": "Staffel 4 - Folge 44",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E44"
+        },
+        {
+          "title": "Staffel 4 - Folge 45",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E45"
+        },
+        {
+          "title": "Staffel 4 - Folge 46",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E46"
+        },
+        {
+          "title": "Staffel 4 - Folge 47",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E47"
+        },
+        {
+          "title": "Staffel 4 - Folge 48",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E48"
+        },
+        {
+          "title": "Staffel 4 - Folge 49",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E49"
+        },
+        {
+          "title": "Staffel 4 - Folge 50",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E50"
+        },
+        {
+          "title": "Staffel 4 - Folge 51",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E51"
+        },
+        {
+          "title": "Staffel 4 - Folge 52",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S4E52"
+        }
+      ],
+      "5": [
+        {
+          "title": "Staffel 5 - Folge 1",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E01"
+        },
+        {
+          "title": "Staffel 5 - Folge 2",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E02"
+        },
+        {
+          "title": "Staffel 5 - Folge 3",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E03"
+        },
+        {
+          "title": "Staffel 5 - Folge 4",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E04"
+        },
+        {
+          "title": "Staffel 5 - Folge 5",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E05"
+        },
+        {
+          "title": "Staffel 5 - Folge 6",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E06"
+        },
+        {
+          "title": "Staffel 5 - Folge 7",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E07"
+        },
+        {
+          "title": "Staffel 5 - Folge 8",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E08"
+        },
+        {
+          "title": "Staffel 5 - Folge 9",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E09"
+        },
+        {
+          "title": "Staffel 5 - Folge 10",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E10"
+        },
+        {
+          "title": "Staffel 5 - Folge 11",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E11"
+        },
+        {
+          "title": "Staffel 5 - Folge 12",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E12"
+        },
+        {
+          "title": "Staffel 5 - Folge 13",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E13"
+        },
+        {
+          "title": "Staffel 5 - Folge 14",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E14"
+        },
+        {
+          "title": "Staffel 5 - Folge 15",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E15"
+        },
+        {
+          "title": "Staffel 5 - Folge 16",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E16"
+        },
+        {
+          "title": "Staffel 5 - Folge 17",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E17"
+        },
+        {
+          "title": "Staffel 5 - Folge 18",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E18"
+        },
+        {
+          "title": "Staffel 5 - Folge 19",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E19"
+        },
+        {
+          "title": "Staffel 5 - Folge 20",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E20"
+        },
+        {
+          "title": "Staffel 5 - Folge 21",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E21"
+        },
+        {
+          "title": "Staffel 5 - Folge 22",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E22"
+        },
+        {
+          "title": "Staffel 5 - Folge 23",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E23"
+        },
+        {
+          "title": "Staffel 5 - Folge 24",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E24"
+        },
+        {
+          "title": "Staffel 5 - Folge 25",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E25"
+        },
+        {
+          "title": "Staffel 5 - Folge 26",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E26"
+        },
+        {
+          "title": "Staffel 5 - Folge 27",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E27"
+        },
+        {
+          "title": "Staffel 5 - Folge 28",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E28"
+        },
+        {
+          "title": "Staffel 5 - Folge 29",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E29"
+        },
+        {
+          "title": "Staffel 5 - Folge 30",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E30"
+        },
+        {
+          "title": "Staffel 5 - Folge 31",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E31"
+        },
+        {
+          "title": "Staffel 5 - Folge 32",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E32"
+        },
+        {
+          "title": "Staffel 5 - Folge 33",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E33"
+        },
+        {
+          "title": "Staffel 5 - Folge 34",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E34"
+        },
+        {
+          "title": "Staffel 5 - Folge 35",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E35"
+        },
+        {
+          "title": "Staffel 5 - Folge 36",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E36"
+        },
+        {
+          "title": "Staffel 5 - Folge 37",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E37"
+        },
+        {
+          "title": "Staffel 5 - Folge 38",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E38"
+        },
+        {
+          "title": "Staffel 5 - Folge 39",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E39"
+        },
+        {
+          "title": "Staffel 5 - Folge 40",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E40"
+        },
+        {
+          "title": "Staffel 5 - Folge 41",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E41"
+        },
+        {
+          "title": "Staffel 5 - Folge 42",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E42"
+        },
+        {
+          "title": "Staffel 5 - Folge 43",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E43"
+        },
+        {
+          "title": "Staffel 5 - Folge 44",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E44"
+        },
+        {
+          "title": "Staffel 5 - Folge 45",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E45"
+        },
+        {
+          "title": "Staffel 5 - Folge 46",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E46"
+        },
+        {
+          "title": "Staffel 5 - Folge 47",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E47"
+        },
+        {
+          "title": "Staffel 5 - Folge 48",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E48"
+        },
+        {
+          "title": "Staffel 5 - Folge 49",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E49"
+        },
+        {
+          "title": "Staffel 5 - Folge 50",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E50"
+        },
+        {
+          "title": "Staffel 5 - Folge 51",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E51"
+        },
+        {
+          "title": "Staffel 5 - Folge 52",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E52"
+        },
+        {
+          "title": "Staffel 5 - Folge 53",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E53"
+        },
+        {
+          "title": "Staffel 5 - Folge 54",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E54"
+        },
+        {
+          "title": "Staffel 5 - Folge 55",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E55"
+        },
+        {
+          "title": "Staffel 5 - Folge 56",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E56"
+        },
+        {
+          "title": "Staffel 5 - Folge 57",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E57"
+        },
+        {
+          "title": "Staffel 5 - Folge 58",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E58"
+        },
+        {
+          "title": "Staffel 5 - Folge 59",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E59"
+        },
+        {
+          "title": "Staffel 5 - Folge 60",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E60"
+        },
+        {
+          "title": "Staffel 5 - Folge 61",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E61"
+        },
+        {
+          "title": "Staffel 5 - Folge 62",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E62"
+        },
+        {
+          "title": "Staffel 5 - Folge 63",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E63"
+        },
+        {
+          "title": "Staffel 5 - Folge 64",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E64"
+        },
+        {
+          "title": "Staffel 5 - Folge 65",
+          "id": "HIER_DRIVE_ID_EINFUEGEN_S5E65"
+        }
+      ]
+    }
+  }
+}

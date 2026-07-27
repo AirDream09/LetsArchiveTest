@@ -1,0 +1,136 @@
+{
+  "serie1": {
+    "questions": [
+      { "q": "In welcher fiktiven Küstenstadt spielt Hidden Side?", "options": ["Newbury", "Ninjago City", "Knightonia", "Ban Tang"], "correct": 0 },
+      { "q": "Wie heißt der Hauptheld, dessen Mutter neue Schulleiterin wird?", "options": ["Jack", "Clay", "Kai", "Dario"], "correct": 0 },
+      { "q": "Wie heißt Jacks treuer Geisterhund?", "options": ["Spencer", "Max", "Rex", "Bello"], "correct": 0 },
+      { "q": "Wodurch werden die Hidden-Side-Modelle zum Leben erweckt?", "options": ["Eine AR-App", "Ein Zauberspruch", "Ein Schlüssel", "Musik"], "correct": 0 },
+      { "q": "Wer weiht Jack in das Geisterjäger-Team ein?", "options": ["Parker", "J.B.", "Douglas", "Rami"], "correct": 0 },
+      { "q": "Welche Rolle spielt J.B. im Team?", "options": ["Sie baut die Geisterjäger-Technik", "Sie ist die Bürgermeisterin", "Sie ist ein Geist", "Sie ist die Antagonistin"], "correct": 0 }
+    ]
+  },
+  "serie2": {
+    "questions": [
+      { "q": "Wie heißt der grüne Ninja mit bürgerlichem Namen?", "options": ["Lloyd Garmadon", "Kai Smith", "Cole Brookstone", "Jay Walker"], "correct": 0 },
+      { "q": "Wie viele ursprüngliche Ninja gibt es (Kai, Cole, Zane, Jay)?", "options": ["4", "3", "5", "6"], "correct": 0 },
+      { "q": "Wer ist der Hauptschurke in Staffel 1 'Das Jahr der Schlangen'?", "options": ["Pythor", "Garmadon", "Morro", "Chen"], "correct": 0 },
+      { "q": "Wie heißt der weise Mentor der Ninja?", "options": ["Sensei Wu", "Sensei Garmadon", "Meister Chen", "Meister Yang"], "correct": 0 },
+      { "q": "Wie heißt Lloyds Vater?", "options": ["Garmadon", "Wu", "Pythor", "Morro"], "correct": 0 },
+      { "q": "In Staffel 5 (Possession) geht es um den bösen Geist...", "options": ["Morro", "Nadakhan", "Chen", "Aspheera"], "correct": 0 },
+      { "q": "Welches Fahrzeug/Zuhause der Ninja stiehlt Garmadon in Staffel 2?", "options": ["Das Flugschiff", "Das U-Boot", "Der Feuerdrache", "Die Festung"], "correct": 0 }
+    ]
+  },
+  "serie3": {
+    "questions": [
+      { "q": "Wer ist MKs legendärer Mentor?", "options": ["Sun Wukong (Monkey King)", "Tang Sanzang", "Pigsy", "Sandy"], "correct": 0 },
+      { "q": "Auf welcher berühmten chinesischen Geschichte basiert Monkie Kid?", "options": ["Die Reise nach Westen", "Die drei Königreiche", "Der Affenkönig kehrt heim", "Mulan"], "correct": 0 },
+      { "q": "Wie heißt Sun Wukongs legendäre Waffe?", "options": ["Der goldene Stab (Ruyi Jingu Bang)", "Der Jadefächer", "Der Drachensäbel", "Der Phönixspeer"], "correct": 0 },
+      { "q": "Wer ist die zweite Heldin an MKs Seite?", "options": ["Mei", "Pigsy", "Tang", "Jade"], "correct": 0 },
+      { "q": "Bevor MK Held wurde, arbeitete er als...", "options": ["Nudel-Lieferjunge", "Ritter", "Feuerwehrmann", "Pirat"], "correct": 0 },
+      { "q": "Welcher berühmte Synchronsprecher (bekannt als Goku) leiht Sun Wukong im Original seine Stimme?", "options": ["Sean Schemmel", "Tom Kenny", "Jack Black", "Chris Sabat"], "correct": 0 }
+    ]
+  },
+  "serie4": {
+    "questions": [
+      { "q": "Welche Tierart ist Mordecai?", "options": ["Ein Blauhäher", "Ein Waschbär", "Ein Yeti", "Ein Lolli-Mensch"], "correct": 0 },
+      { "q": "Welche Tierart ist Rigby?", "options": ["Ein Waschbär", "Ein Blauhäher", "Ein Gorilla", "Ein Geist"], "correct": 0 },
+      { "q": "Wo arbeiten Mordecai und Rigby als Platzwarte?", "options": ["In einem Park", "In einer Schule", "In einem Museum", "In einem Kino"], "correct": 0 },
+      { "q": "Wie heißt ihr Chef, ein wandelnder Kaugummiautomat?", "options": ["Benson", "Pops", "Skips", "Muscle Man"], "correct": 0 },
+      { "q": "Wie heißt die allererste Episode der Serie?", "options": ["The Power", "Free Cake", "Death Punchies", "Prank Callers"], "correct": 0 },
+      { "q": "Wer erschuf Regular Show und spricht auch Mordecai?", "options": ["J.G. Quintel", "Rebecca Sugar", "Pendleton Ward", "Alex Hirsch"], "correct": 0 }
+    ]
+  },
+  "serie5": {
+    "questions": [
+      { "q": "Um welche mächtige Energiequelle wird in Chima gekämpft?", "options": ["CHI", "Vril", "Kraft-Kristalle", "Mana"], "correct": 0 },
+      { "q": "Welchem Tierstamm gehört Laval an?", "options": ["Löwen", "Krokodile", "Adler", "Wölfe"], "correct": 0 },
+      { "q": "Wer ist Lavals bester Freund, der zum Rivalen wird?", "options": ["Cragger", "Worriz", "Razar", "Eris"], "correct": 0 },
+      { "q": "Welchem Stamm gehört Cragger an?", "options": ["Krokodile", "Löwen", "Bären", "Raben"], "correct": 0 },
+      { "q": "Wie heißt Lavals Vater, der König der Löwen?", "options": ["Lagravis", "Lavertus", "Crominus", "Lundor"], "correct": 0 },
+      { "q": "Wie viele Staffeln umfasst Legends of Chima insgesamt?", "options": ["3", "2", "4", "5"], "correct": 0 }
+    ]
+  },
+  "serie6": {
+    "questions": [
+      { "q": "Wer ist der Anführer der Nexo-Ritter?", "options": ["Clay Moorington", "Lance Richmond", "Axl", "Aaron Fox"], "correct": 0 },
+      { "q": "Wie heißt der digitale Zauberer, der die Ritter berät?", "options": ["Merlok 2.0", "Jestro", "Monstrox", "Halbert"], "correct": 0 },
+      { "q": "Wer stiehlt zu Beginn das 'Buch der Monster'?", "options": ["Jestro", "Merlok", "Clay", "Ruina"], "correct": 0 },
+      { "q": "Wie heißt die rollende Festung der Ritter?", "options": ["Der Fortrex", "Der Falcon", "Die Arche", "Der Wanderer"], "correct": 0 },
+      { "q": "Wie heißt Clays leibliche Mutter, die zur Bösewichtin wurde?", "options": ["Ruina Steinherz", "Ava Prentis", "Macy Halbert", "Wanda"], "correct": 0 },
+      { "q": "Aus wie vielen Rittern besteht das Kernteam (Clay, Aaron, Lance, Axl, Macy)?", "options": ["5", "4", "6", "3"], "correct": 0 }
+    ]
+  },
+  "serie7": {
+    "questions": [
+      { "q": "Wie heißt die Hauptfigur, die zu Jade Armor wird?", "options": ["Lan Jun", "Xinyan", "Kai", "Alisha"], "correct": 0 },
+      { "q": "Wer ist der Hauptschurke der Serie?", "options": ["Der Crimson Lord", "Gwi-Ma", "Monstrox", "Pythor"], "correct": 0 },
+      { "q": "Aus welcher Kultur/Mythologie schöpft Jade Armor seine Inspiration?", "options": ["Chinesische Mythologie", "Griechische Mythologie", "Nordische Mythologie", "Ägyptische Mythologie"], "correct": 0 },
+      { "q": "Wie heißt der affenartige Beasticon, der oft für Chaos sorgt?", "options": ["Xinyan", "Pixiu", "Jiu Wei Hu", "Shenwu"], "correct": 0 },
+      { "q": "Von welchem Studio wurde Jade Armor produziert?", "options": ["TeamTO", "Flying Bark", "Wildbrain", "Method Animation"], "correct": 0 },
+      { "q": "Wer ist Lan Juns guter Freund, der ihr oft zur Seite steht?", "options": ["Kai", "Theo", "Malik", "Will"], "correct": 0 }
+    ]
+  },
+  "serie8": {
+    "questions": [
+      { "q": "Wie viele Folgen von 'The Way Out' liegen im Archiv vor?", "options": ["4", "6", "10", "2"], "correct": 0 },
+      { "q": "Welche Folge trägt den Titel 'Las Vegas'?", "options": ["F03", "F01", "F02", "F04"], "correct": 0 },
+      { "q": "Wie heißt die letzte Folge (das Finale)?", "options": ["Finale: Weltenrettung", "Der Anfang", "Spooky Kirmes", "Märchenwald"], "correct": 0 },
+      { "q": "Welche Folge spielt in einem 'Märchenwald'?", "options": ["F01", "F02", "F03", "F04"], "correct": 0 }
+    ]
+  },
+  "serie9": {
+    "questions": [
+      { "q": "Wie heißt der Erfinder und Hausmeister der Burg von Novelmore?", "options": ["Dario Da Vanci", "Arwynn", "Gwynn", "Bayron"], "correct": 0 },
+      { "q": "Wer ist der Anführer der Burnham Raiders?", "options": ["Bayron Burnham", "Brody Burnham", "Kahboom", "Tyragon"], "correct": 0 },
+      { "q": "Wie heißt die begehrte magische Rüstung, um die gekämpft wird?", "options": ["Invincibus", "Excalibur", "Aegis", "Titanheart"], "correct": 0 },
+      { "q": "Wer ist der abenteuerlustige Prinz von Novelmore?", "options": ["Arwynn", "Dario", "Brody", "John"], "correct": 0 },
+      { "q": "Wie heißt die dritte Heldin neben Dario und Arwynn?", "options": ["Gwynn", "Pyralia", "Ashthorn", "Lucifex"], "correct": 0 },
+      { "q": "Von welcher Spielzeugmarke stammt Novelmore?", "options": ["Playmobil", "LEGO", "Mattel", "Schleich"], "correct": 0 }
+    ]
+  },
+  "serie10": {
+    "questions": [
+      { "q": "Wie heißt die geheimnisvolle Feenwelt der Serie?", "options": ["Ayuma", "Ninjago", "Knighton", "Chima"], "correct": 0 },
+      { "q": "Elvi ist eine Fee welchen Typs?", "options": ["Crystal Fairy", "Bat Fairy", "Moon Fairy", "Knight Fairy"], "correct": 0 },
+      { "q": "Wer sind die Gegenspieler, die Kristalle stehlen?", "options": ["Die Bat Fairies", "Die Burnham Raiders", "Die Schlangen", "Die Steinmonster"], "correct": 0 },
+      { "q": "Wie heißen die drei Feenfreundinnen im Zentrum der Serie?", "options": ["Leavi, Elvi und Josy", "Ruby, Twinkle und Gwynn", "Coco, Agott und Tetia", "Mei, Pigsy und Sandy"], "correct": 0 },
+      { "q": "Von welcher Spielzeugmarke stammt Adventures of Ayuma?", "options": ["Playmobil", "LEGO", "Mattel", "Barbie"], "correct": 0 }
+    ]
+  },
+  "serie11": {
+    "questions": [
+      { "q": "Aus welcher Welt stammt Prinz Alex?", "options": ["Ritterland (Kingsland)", "Schwarzpulver-Insel", "Technopolis", "Die verwunschene Insel"], "correct": 0 },
+      { "q": "Welchem 'Beruf' geht Ruby nach?", "options": ["Piratin", "Ritterin", "Fee", "Agentin"], "correct": 0 },
+      { "q": "Wer ist die Fee im Heldenteam?", "options": ["Twinkle", "Ruby", "Gwynn", "Elvi"], "correct": 0 },
+      { "q": "Wie heißt das verwandlungsfähige Fahrzeug des Teams?", "options": ["Das Chamäleon", "Der Fortrex", "Die Invincibus", "Der Falke"], "correct": 0 },
+      { "q": "Welcher wiederkehrende Bösewicht baut den Supercomputer 'MindNet'?", "options": ["Dr. X", "Der Schwarze Baron", "Baba Cara", "Sharkbeard"], "correct": 0 },
+      { "q": "Aus wie vielen Helden besteht das Kernteam Super4?", "options": ["4", "3", "5", "6"], "correct": 0 }
+    ]
+  },
+  "serie12": {
+    "questions": [
+      { "q": "Wie viele Staffeln von 'NICHT NACHMACHEN!!!' liegen im Archiv vor?", "options": ["2", "1", "3", "4"], "correct": 0 },
+      { "q": "Wie viele Folgen hat Staffel 1?", "options": ["6", "10", "4", "8"], "correct": 0 },
+      { "q": "Wie viele Folgen hat Staffel 2?", "options": ["6", "10", "4", "8"], "correct": 0 }
+    ]
+  },
+  "serie13": {
+    "questions": [
+      { "q": "Wie heißt die Hauptfigur, die zur Hexenschülerin wird?", "options": ["Coco", "Agott", "Tetia", "Richeh"], "correct": 0 },
+      { "q": "Wie heißt Cocos Lehrmeister?", "options": ["Qifrey", "Olruggio", "Beldaruit", "Custas"], "correct": 0 },
+      { "q": "Was geschah mit Cocos Mutter durch verbotene Magie?", "options": ["Sie wurde zu Kristall verwandelt", "Sie verschwand spurlos", "Sie wurde unsichtbar", "Sie verlor ihre Erinnerung"], "correct": 0 },
+      { "q": "Wonach sucht Coco im 'Turm der Bücher' (Tower of Tomes)?", "options": ["Ein Buch, um ihre Mutter zurückzuverwandeln", "Ein Schwert", "Einen Schatz", "Einen Drachen"], "correct": 0 },
+      { "q": "Wie heißt der Feuer-Magier, der über Qifreys Atelier wacht?", "options": ["Olruggio", "Beldaruit", "Euini", "Dagda"], "correct": 0 }
+    ]
+  },
+  "serie14": {
+    "questions": [
+      { "q": "Wie heißt die K-Pop-Girlgroup im Zentrum der Handlung?", "options": ["HUNTR/X", "Saja Boys", "Blackpink", "Golden Idols"], "correct": 0 },
+      { "q": "Aus wie vielen Mitgliedern besteht HUNTR/X?", "options": ["3", "4", "2", "5"], "correct": 0 },
+      { "q": "Wie heißt die magische Barriere, die durch die Songs aufrechterhalten wird?", "options": ["Honmoon", "Chi", "Spinjitzu", "Nexo-Kraft"], "correct": 0 },
+      { "q": "Wie heißt die rivalisierende Boygroup, die eigentlich Dämonen sind?", "options": ["Die Saja Boys", "Die Crimson Lords", "Die Burnham Raiders", "Die Steinmonster"], "correct": 0 },
+      { "q": "Welches Geheimnis trägt Rumi, die Anführerin von HUNTR/X, in sich?", "options": ["Sie ist eine Halbdämonin", "Sie ist unsterblich", "Sie ist eine Prinzessin", "Sie kann fliegen"], "correct": 0 },
+      { "q": "Auf welcher Streaming-Plattform erschien der Film?", "options": ["Netflix", "Disney+", "Amazon Prime", "Apple TV+"], "correct": 0 }
+    ]
+  }
+}
